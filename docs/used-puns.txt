@@ -6,6 +6,8 @@
 
 (W)			How much does a roof cost? Nothing. It's on the house.
 
+(W)			What kind of dog doesn't bark? A hush puppy!
+
 (W)			What do you call your mom's angry French sister? A Croissaunt.
 
 (W)			I haven't kept up my subscription to the Scrabble Club...now they've started sending me threatening letters...
@@ -15,6 +17,8 @@
 (L)			The guy at the furniture store told me the sofa would seat 5 people without any problems. Then it occurred to me, I don't think I know 5 people without any problems.
 
 (LS)		Why isn't holy water used in vaccinces? Because you can't take the Lord's name in vein.
+
+(LS)		Why can't cats play poker in the jungle? Too many cheetahs!
 
 (LSW)		With my ailing memory, I'm thinking of changing my passowrd to "incorrect". That way,  when I log in with the wrong password, the computer will tell me..."Your password is incorrect".
 
@@ -134,7 +138,7 @@
 
 (LW)		I'm never again donating money to anyone collecting for a marathon.  They just take the money and run!
 
-(LW)		Why was the computer later for work? It had a hard drive.
+(LW)		Why was the computer late for work? It had a hard drive.
 
 (LW)		I was on a diabetes awareness website and it asked me if I accept cookies...Is this a trick question?
 
