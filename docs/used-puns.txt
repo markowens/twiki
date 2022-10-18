@@ -30,6 +30,8 @@
 
 (LS)		I you weigh 200 pounds on earth, you'll be only 76 pounds on mars. You're not overweight, you're just on the wrong planet.
 
+(LSW)		I always get nostalgic putting my car in reverse. It really takes me back!
+
 (LSW)		I always carry a pebble with me to throw at people who sing Christmas songs in October. I call it my jingle bell rock!
 
 (LSW)		Julie Andrews will no longer endorse cheap lipstick. It crumbles easily and gives her bad breath. She explains: "The super color fragile lipstick gives me halitosis!"
@@ -101,6 +103,8 @@
 (LSW)		What do you call a medieval spy? Sir Veillance.
 
 (LSW)		I'm going to take up coin collecting. The change will do me good.
+
+(LSW)   Before I got married, I didn't even know there was a wrong way to put the milk back in the fridge.
 
 (LSW)		What do you call security guards working outside Samsung shops? Guardians of the Galaxy.
 
