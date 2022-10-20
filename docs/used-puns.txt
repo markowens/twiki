@@ -100,6 +100,8 @@
 
 (LSW)		I failed my driver's test today. The instructor asked me, "What do you do at a red light"? I said, "I usually check Twitter and also see what people are up to on Facebook."
 
+(LWS)   My wife said, "You really have no sense of direction, do you?" I said, "where did that come from?"
+
 (LSW)   Why do nurses always carry red crayons? In case they need to draw blood.
 
 (LSW)		What do you call a medieval spy? Sir Veillance.
