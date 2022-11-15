@@ -8,6 +8,8 @@
 
 (W)			What kind of dog doesn't bark? A hush puppy!
 
+(W)     What do you call a pig on a leash? Pulled Pork.
+
 (W)			What do you call your mom's angry French sister? A Croissaunt.
 
 (LW) 		A sweater I purchased was picking up static electricity, so I returned it to the store. They gave me another one free of charge.
@@ -47,6 +49,8 @@
 (LS)		Why can't cats play poker in the jungle? Too many cheetahs!
 
 (LS)		I you weigh 200 pounds on earth, you'll be only 76 pounds on mars. You're not overweight, you're just on the wrong planet.
+
+(LSW)   When I was a kid, I told my mom I was going to run away. She said "On your mark..."
 
 (LSW)   I tried being a comedian, but I had to give it up....people kept laughing at me.
 
@@ -205,6 +209,10 @@
 (S) 		What do you call a belt made of $100 bills? A waist of money.
 
 (S) 		A thief broke into my house last night looking for money. So I got out of bed to look with him. 
+
+(S+)    I was just hired by a bicycle - wheel making company. I am their spokesperson.
+
+(LSW-)  My new SUV has a button that says, 'Rear Wiper'. I'm afraid to push it.
 
 (LS) 		I have an idea for a chain of Elvis steak houses. It will be for people who love meat tender. 
 
@@ -380,9 +388,11 @@ Supervision
 (LW)		What do you call the soft tissue between a sharks teeth?
 The slow swimmer.
 
+(LSW)   Did you hear about the guy who invented the knock-knock joke? He won the 'no-bell' prize.
+
 (LW)		I remember when air was free at the gas station. Now it costs $1.50. That’s what I call inflation!
 
-(LW)		One of my favorite memories as a kid was when my brothers used to put me inside a tire and role me down a hill. Those wereGoodyears!
+(LS+W)		One of my favorite memories as a kid was when my brothers used to put me inside a tire and role me down a hill. Those wereGoodyears!
 
 (LW)		Why are skeletons so calm?
 Nothing gets under their skin!
