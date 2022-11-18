@@ -1,6 +1,6 @@
 (W) 		Spiders are the only web developers who love finding bugs.
 
-(W)			Last year I joined a support group for procrastinators. We haven't met yet.
+(WS)		Last year I joined a support group for procrastinators. We haven't met yet.
 
 (W)			Be a minimalist...it's the least you can do.
 
@@ -11,6 +11,8 @@
 (W)     What do you call a pig on a leash? Pulled Pork.
 
 (W)			What do you call your mom's angry French sister? A Croissaunt.
+
+(W)     How may spiders does it take to create an app? None. Spikers don't make apps; they only design web sites!
 
 (W)     It was a sad and disappointing day when I discovered my Universal Remote Control did not, if fact, control the Universe.....not even remotely!
 
@@ -29,6 +31,8 @@
 (L)			My math teacher called me average. How mean!
 
 (L)			The guy at the furniture store told me the sofa would seat 5 people without any problems. Then it occurred to me, I don't think I know 5 people without any problems.
+
+(LS)    I was so bored sitting at home that I memorized six pages of the dictionary. I learned next to nothing.
 
 (LS)    Why was the sand wet? The seaweed.
 
