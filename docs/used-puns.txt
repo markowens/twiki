@@ -34,8 +34,6 @@
 
 (L)			The guy at the furniture store told me the sofa would seat 5 people without any problems. Then it occurred to me, I don't think I know 5 people without any problems.
 
-(LS)    I was so bored sitting at home that I memorized six pages of the dictionary. I learned next to nothing.
-
 (LS)    Why was the sand wet? The seaweed.
 
 (LS)    I accidentally drank a bottle of invisible ink last night. I'm in the hospital now, waiting to be seen.
@@ -65,11 +63,11 @@
 
 (LSW)   I don't want to brag or make anyone jealous, but I can still fit into the socks I wore in high school.
 (LSW)   I got a job as senior director at Old MacDonald's Farm. I'm the CIEIO.
-
+(LSW)   What do you call a turkey on the day after Thanksgiving? Lucky.
 (LSW)   When I was a kid, I told my mom I was going to run away. She said "On your mark..."
-
+(LSW)   Who doesn't eat on Thanksgiving? A turkey, because it is always stuffed.
 (LSW)   I tried being a comedian, but I had to give it up....people kept laughing at me.
-
+(LSW)   I was so bored sitting at home that I memorized six pages of the dictionary. I learned next to nothing.
 (LSW)   I want to say that comforters are always superior to quilts...but I don't like to make blanket statements.
 
 (LSW)		I always get nostalgic putting my car in reverse. It really takes me back!
@@ -145,7 +143,7 @@
 (LSW)   My teacher told me not to worry about spelling because in the future there will be auto-correct. And for that, I am eternally grapefruit!
 
 (LSW)		I saw a microbiologist today...He was much bigger than I expected.
-
+(LSW)   I asked my wife what she wanted for Christmas. She told me, “Nothing would make her happier than a diamond necklace.” So I bought her nothing.
 (LSW)		I went to an archaeology party  recently where they were only looking for remains of a lower leg...it was quite the shindig.
 
 (LSW-)	What happens when you eat aluminum foil? You sheet metal.
@@ -195,6 +193,7 @@
 (LSW-)	I found a recipe from Morocco for homemade dinner rolls. It called for fresh thyme but mine was outdated. I used it anyway. You know, as I reminisce, I really like that old thyme Moroccan roll! 
 
 (LSW)		I would love to get paid to sleep. It would be a dream job! 
+(LSW)   What do you get from a pampered cow? Spoiled milk!
 
 (LSW)		I had a hen who could count her own eggs. She was a mathemachicken. 
 
@@ -285,6 +284,7 @@
 (LW)    Someone complimented my parking today! They left a sweet note on my windshield that said "parking fine."
 (LW)    I’ll tell you what really annoys me; people who get well-known phrases wrong...I mean, its not rocket surgery...
 (LW)    I don't trust stairs. They're always up to something.
+(LW)    Why are skeletons so calm? Because nothing gets under their skin.
 
 (LW)		I saw toast at the zoo once. Apparently it was bread in captivity.
 
@@ -628,9 +628,6 @@ But now I stand corrected!
 
 (LW)		Why is it getting harder to buy Advent calendars?
 Because their days are numbered.
-
-(LW)		Why was the snowman looking through the carrots?
-He was picking his nose!
 
 (LW)		What is the best Christmas present!
 A broken drum. You just can’t beat it!
