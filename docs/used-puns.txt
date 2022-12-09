@@ -62,7 +62,7 @@
 
 (LS)		I you weigh 200 pounds on earth, you'll be only 76 pounds on mars. You're not overweight, you're just on the wrong planet.
 
-
+(LSW)   What do you call a snowman with a six pack? An abdominal snowman.
 (LSW)   I don't want to brag or make anyone jealous, but I can still fit into the socks I wore in high school.
 (LSW)   I got a job as senior director at Old MacDonald's Farm. I'm the CIEIO.
 (LSW)   What do you call a turkey on the day after Thanksgiving? Lucky.
