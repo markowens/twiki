@@ -79,6 +79,7 @@
 (LSW)		I always carry a pebble with me to throw at people who sing Christmas songs in October. I call it my jingle bell rock!
 (LSW)   Why does Santa have three gardens? So he can ho ho ho.
 (LSW)   What did the turkey say to the turkey hunter on Thanksgiving Day? Quack, quack!
+(LWW)   How do you wash your hands over the holiday? With Santatizer.
 
 (LSW)		Julie Andrews will no longer endorse cheap lipstick. It crumbles easily and gives her bad breath. She explains: "The super color fragile lipstick gives me halitosis!"
 
@@ -429,11 +430,7 @@ It depends on how many people are standing in it.
 
 (LW)		I tried to date a tennis player once, but love meant nothing to her!
 
-(LW)		What did one American flag tell the other?
-Nothing! It just waved!
-
-(LW)		What do Santa's elves listen to as they work?
-Wrap music.
+(LW)		What did one American flag tell the other? Nothing! It just waved!
 
 (LW)		I tried to have a conversation with my wife when she was applying a mud mask. You should have seen the filthy look she gave me.
 
@@ -453,8 +450,7 @@ Supervision
 
 (LW)		Golf is the only sport where subpar performance is ideal!
 
-(LW)		What do you call the soft tissue between a sharks teeth?
-The slow swimmer.
+(LW)		What do you call the soft tissue between a sharks teeth? The slow swimmer.
 
 (LSW)   Did you hear about the guy who invented the knock-knock joke? He won the 'no-bell' prize.
 
