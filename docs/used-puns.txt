@@ -68,7 +68,6 @@
 (LW)    The difference between a numerator and a denominator is a short line. Only a fraction of people will understand this!
 (LW)    If you see a crime at an Apple Store, does that make you an iWitness?
 (LW)    What do scholars eat when they're hungry? Academia nuts.
-(LW)    What do you call a fake noodle? An Impasta!
 (LW)    Five out of four people admit they're bad with fractions!
 (LW)    Someone complimented my parking today! They left a sweet note on my windshield that said "parking fine."
 (LW)    I’ll tell you what really annoys me; people who get well-known phrases wrong...I mean, its not rocket surgery...
@@ -316,6 +315,7 @@
 (LS) 		I have an idea for a chain of Elvis steak houses. It will be for people who love meat tender. 
 (LS)		Wife said, "our new neighbors are so in love. He kisser her, strokes her hair and hugs her. Why don't you do that"? I said, "Because I don't know her that well yet"
 
+(LSW)   Don't you hate it when you read read as read and not read, so you have to re-read read as read so you can read read correctly and it can make sense.
 (LSW)   What do you call a snowman with a six pack? An abdominal snowman.
 (LSW)   I don't want to brag or make anyone jealous, but I can still fit into the socks I wore in high school.
 (LSW)   I got a job as senior director at Old MacDonald's Farm. I'm the CIEIO.
