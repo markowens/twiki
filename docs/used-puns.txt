@@ -14,7 +14,7 @@
 (W) 		Spiders are the only web developers who love finding bugs.
 (W)			Be a minimalist...it's the least you can do.
 (W)			How much does a roof cost? Nothing. It's on the house.
-(W)     My friend is losing his mind over missing a piecfe of his 5000 piece puzzle. If he thinks that's bad, I'm missing 4999 pieces.
+(W)     My friend is losing his mind over missing a piece of his 5000 piece puzzle. If he thinks that's bad, I'm missing 4999 pieces.
 (W)			What kind of dog doesn't bark? A hush puppy!
 (W)     What do you call a pig on a leash? Pulled Pork.
 (W)			What do you call your mom's angry French sister? A Croissaunt.
@@ -55,7 +55,6 @@
 (LW)    My uncle named his dogs Rolex and Timex. They're his watch dogs!
 (LW)    Why did the math book look so sad? Because of all of its problems!
 (LW)    What did the Ranch say when someone opened the refrigerator door? "Close the door, I'm dressing!"
-(LW)    I was playing chess with my friend and he said, "Let's make this interesting." So we stopped playing chess.
 (LW)    What do you call someone with no body and no nose? Nobody knows.
 (LW)    What do you call a fake noodle? An impasta.
 (LW)    Why can't a nose be 12 inches long? Because then it would be a foot.
@@ -315,6 +314,8 @@
 (LS) 		I have an idea for a chain of Elvis steak houses. It will be for people who love meat tender. 
 (LS)		Wife said, "our new neighbors are so in love. He kisser her, strokes her hair and hugs her. Why don't you do that"? I said, "Because I don't know her that well yet"
 
+(LWS)   I was playing chess with my friend and he said, "Let's make this interesting." So we stopped playing chess.
+(LSW)   Two things to consider about mariage: On one hand, you get to wear a cool ring. On the other hand, you don't.
 (LSW)   3,027 years from today, life will either be really good, or really bad! It's 5050...
 (LSW)   Don't you hate it when you read read as read and not read, so you have to re-read read as read so you can read read correctly and it can make sense.
 (LSW)   What do you call a snowman with a six pack? An abdominal snowman.
