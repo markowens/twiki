@@ -44,7 +44,6 @@
 (LW)    I'm so good at sleeping I can do it with my eyes closed!
 (LW)    Did you hear about the man who fell into an upholstery machine? He's fully recovered.
 (LW)    To whoever stole my copy of Microsoft Office, I will find you. You have my Word!
-(LW)    One of my favorite memories as a kid was when my brothers used to put me inside a tire and roll me down a hill. They were Goodyears!
 (LW)    If a child refuses to sleep during nap time, are they guilty of resisting a rest?
 (LW)    What do Santa's elves listen to ask they work? Wrap music!
 (LW)    I thought about going on an all-almond diet… But that's just nuts!
@@ -128,7 +127,7 @@
 (LW)		A man goes to a funeral and asks the widow: “Mind if I say a word?”. She says: “Please do.” The man clears his throat and says: “Bargain.” The widow replies: “Thanks, that means a great deal!”
 (LW)		Whoever came up with the word dentures really missed the opportunity to call them “substitooths”!
 (LW)		If 666 is all evil. Then 25.8069758 is the root of all evil.
-(LW)		I’ve always wondered if songbirds get mad at hummingbirds for not knowing the words
+(LW)		I’ve always wondered if songbirds get mad at hummingbirds for not knowing the wordsf
 (LW)		I told my wife this morning she had drawn her eyebrows a little too high. She looked surprised.
 (LW)		What do you call a mummy with a cold? Sir Cough, I guess.
 (LW)		I was playing with a boomerang and couldn't remember how to use it. Then it came back to me!
@@ -253,7 +252,6 @@
 (LW)		Someone ripped the 5th month out of my calendar. I’m completely dismayed!
 (LW)		Why was 69 afraid of 70? Because they had a fight and 71.
 (LW)		Police have arrested the World Tongue Twister champion. They said he will be given a tough sentence!
-(LW)		I’ve always wondered if songbirds get mad at hummingbirds for not knowing the words.
 (LW)		If 666 is all evil. Then 25.8069758 is the root of all evil.
 (LW)		Whoever came up with the word dentures really missed the opportunity to call them “substitooths”!
 (LW)		A man goes to a funeral and asks the widow: “Mind if I say a word?”. She says: “Please do.” The man clears his throat and says: “Bargain.” The widow replies: “Thanks, that means a great deal!”
@@ -317,7 +315,9 @@
 (LS) 		I have an idea for a chain of Elvis steak houses. It will be for people who love meat tender. 
 (LS)		Wife said, "our new neighbors are so in love. He kisser her, strokes her hair and hugs her. Why don't you do that"? I said, "Because I don't know her that well yet"
 (LS)    I decided to make sure my wife woke up with a big smile on her face this morning. Now I can't have Sharpies in the house anymore!
+(LS)    I wonder what my parents did to fight boredom before the internet? I asked my 18 brothers and sisters and they don't know either.
 
+(LSW)   People say that 60 is the new 40. The cop that just pulled me over doesn't agree!
 (LSW)   What do you call a boat full of buddies? A friendship!
 (LSW)   According to the BMI chart at the doctor's office...I'm too short!
 (LSW)   What's the difference between ignorance and apathy? I don't know and I don't care!
@@ -409,7 +409,7 @@
 (LSW)		My wife asked me if I knew what her favorite flower was. Apparently "gold medal all purpose" was not he correct response.
 (LSW)		My boss told me to have a good day. So I went home.
 (LSW)   Did you hear about the guy who invented the knock-knock joke? He won the 'no-bell' prize.
-(LSW)		One of my favorite memories as a kid was when my brothers used to put me inside a tire and role me down a hill. Those wereGoodyears!
+(LSW)		One of my favorite memories as a kid was when my brothers used to put me inside a tire and role me down a hill. Those were Goodyears!
 (LSW)   Why do ghosts ride elevators? To lift their spirits.
 
 (LSW-)	Sad neww! I broke up with my girlfriend Loraine. She found out I was seeing another girl, Claire Lee. Good news thought! I can see Claire Lee now, Loraine is gone!
