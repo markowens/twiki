@@ -11,6 +11,7 @@
 (S) 		A thief broke into my house last night looking for money. So I got out of bed to look with him. 
 (S+)    I was just hired by a bicycle - wheel making company. I am their spokesperson.
 
+(W)     I got into a fight with 1, 3, 5, 7, and 9. The odds were against me.
 (W)     Why did the chicken go to the gym? To work on his pecks.
 (W) 		Spiders are the only web developers who love finding bugs.
 (W)			Be a minimalist...it's the least you can do.
@@ -316,6 +317,7 @@
 (LS)		Wife said, "our new neighbors are so in love. He kisser her, strokes her hair and hugs her. Why don't you do that"? I said, "Because I don't know her that well yet"
 (LS)    I decided to make sure my wife woke up with a big smile on her face this morning. Now I can't have Sharpies in the house anymore!
 (LS)    I wonder what my parents did to fight boredom before the internet? I asked my 18 brothers and sisters and they don't know either.
+(LS)    Poop jokes aren't my favorite kind of joke. But they are a solid #2.
 
 (LSW)   I've been experimenting with breeding racing deer...People have accused me of just tryin gto make a fast buck!
 (LSW)   People say that 60 is the new 40. The cop that just pulled me over doesn't agree!
