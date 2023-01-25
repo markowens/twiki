@@ -267,7 +267,6 @@
 (LW)		I applied for a job hanging mirrors. It’s a something I can see myself doing!
 (LW)		Every single morning I get hit by the same bike... It's a vicious cycle!
 (LW)		I turned down a job where I would be paid in vegetables. The celery was unacceptable!
-(LW)		Two little boys were at a wedding when one of them leaned over to the other and asked, "How many wives can a man have?" His friend answered, "Sixteen...four better, four worse, four richer, and four poorer."
 (LW)		My friend keeps saying “cheer up mate, it could  be worse, you could be stuck underground in a hole full of water!” I know he means well.
 (LW)		What do you call a zombie who write music? A decomposer.
 (LW)		What word starts with E and ends with E but only has one letter in it? Envelope.
@@ -321,6 +320,7 @@
 (LS)    Poop jokes aren't my favorite kind of joke. But they are a solid #2.
 (LS)    When I'm around my Spanish-speaking friends I always use the word "mucho" as much as possible...It means a lot to them.
 
+(LSW)   In the old west, they would mount a lantern on their horse for travelling at night. It was the 1st form of saddle light navigation.
 (LSW)   As kids we used to throw Scrabble tiles at each other, until Mom shouted "stop it before someone loses an i"
 (LSW)   I was going to quit all my bad habits for the new year. But then I remembered that nobody likes a quitter.
 (LSW)   I've been experimenting with breeding racing deer...People have accused me of just tryin gto make a fast buck!
