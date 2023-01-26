@@ -10,6 +10,8 @@
 (S) 		What do you call a belt made of $100 bills? A waist of money.
 (S) 		A thief broke into my house last night looking for money. So I got out of bed to look with him. 
 (S+)    I was just hired by a bicycle - wheel making company. I am their spokesperson.
+(S)     A farmer took his baby goat to the vet after it had been limpig for about a week. It was diagnosed with a kid knee infection.
+
 
 (W)     I wanted to thank everyone for sticking with me while I figured out the meaning of "many". It means a lot.
 (W)     I got into a fight with 1, 3, 5, 7, and 9. The odds were against me.
@@ -30,6 +32,7 @@
 
 (SW)		Last year I joined a support group for procrastinators. We haven't met yet.
 
+(LW)     I'm an optimistic pessimist. I'm positive things will go wrong.
 (LW) 		A sweater I purchased was picking up static electricity, so I returned it to the store. They gave me another one free of charge.
 (LW)		I tried to sue the airline for misplacing my luggage....I lost my case!
 (LW)		My bank really likes me. They called me and said my credit card balance is outstanding
