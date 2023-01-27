@@ -13,6 +13,7 @@
 (S)     A farmer took his baby goat to the vet after it had been limpig for about a week. It was diagnosed with a kid knee infection.
 
 
+(W)     Never iron a four leaf clover. You don't want to press your luck!
 (W)     I wanted to thank everyone for sticking with me while I figured out the meaning of "many". It means a lot.
 (W)     I got into a fight with 1, 3, 5, 7, and 9. The odds were against me.
 (W)     Why did the chicken go to the gym? To work on his pecks.
@@ -294,6 +295,7 @@
 (LW)		My wife and I laugh at how competitive we are....but I laugh more!
 (LW)    A bus station is where a bus stops. A train station is where a train stops. On my desk, I have a work station.
 
+(LS)    Before you judge a man, walk a mile in his shoes. After that who cares? He'a a mile away and you've got his shoes!
 (LS)    My 3 favorite things are eating my family and not using commas.
 (LS)    Why was the sand wet? The seaweed.
 (LS)    Where do dad's store all their dad jokes? In the dad-a-base!
