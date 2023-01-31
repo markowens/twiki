@@ -184,7 +184,6 @@
 (LW)		What are bald  sea captains most worried about? Capsizes
 (LW)		Which Olympic sport generates the most conversation? Discus
 (LW)		Did you hear about Arnold Schwarzenegger’s upcoming movie about classical music? It’s called I’ll Be Bach!
-(LW)		Did you hear about the man who fell into an upholstery machine? Don’t worry, he’s fully recovered!
 (LW)		When I was a kid, my mom told me I could be anyone I wanted to be. Turns out, identity theft is a crime!
 (LW)		In Britain, they call it a “lift” but we Americans call it an “elevator”. I guess we’re just raised differently.
 (LW)		Whoever came up with the word ‘dentures’ really missed the opportunity to call them “substitooths”.
@@ -384,6 +383,7 @@
 (LSW)		I wanted to be a doctor, but I didn't have the patients.
 (LSW)   I went to a smoke shop only discover it was now an apparel store. Clothes, but no cigar.
 (LSW)		What has more letters than the alphabet? The Post Office.
+(LSW)   Little known fact: Before the crowbar was invented. Crows simply drank at home.
 (LSW)   What do you call two birds stuck together? Velcrows.
 (LSW)		When you're young, you play with them. Whey you get older, you start losing them? Your marbles!
 (LSW)		If a cowboy is happy does that make him a Jolly Rancher?
@@ -423,6 +423,7 @@
 (LSW)   Did you hear about the guy who invented the knock-knock joke? He won the 'no-bell' prize.
 (LSW)		One of my favorite memories as a kid was when my brothers used to put me inside a tire and role me down a hill. Those were Goodyears!
 (LSW)   Why do ghosts ride elevators? To lift their spirits.
+(LSW)   Just found the worst page in the entire dictionary. What I saw was disgraceful, disgusting, dishonest, and disingenuous.
 
 (LSW-)	Sad neww! I broke up with my girlfriend Loraine. She found out I was seeing another girl, Claire Lee. Good news thought! I can see Claire Lee now, Loraine is gone!
 (LSW-)	What happens when you eat aluminum foil? You sheet metal.
