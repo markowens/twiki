@@ -221,7 +221,6 @@
 (LW)		I found a coin on the street the other day and it had teeth marks all over it. It was a Bitcoin!
 (LW)		I’m trying to convince my dad to get a new hearing aid. But he just won’t listen!
 (LW)		I asked the surgeon if I could administer my own anesthetic. He said: “Sure, knock yourself out!”
-(LW)		When I moved into my new igloo my friends threw me a surprise house-warming party. Now I’m homeless!
 (LW)		Did you hear about the restaurant called Karma? There’s no menu. You get what you deserve!
 (LW)		I finally bought the limited edition Thesaurus that I’ve always wanted. But when I opened it, all the pages were blank. I have no words to describe how angry I am!
 (LW)		How do you find Will Smith in the snow? Look for fresh prints!
@@ -294,6 +293,7 @@
 (LW)		My wife and I laugh at how competitive we are....but I laugh more!
 (LW)    A bus station is where a bus stops. A train station is where a train stops. On my desk, I have a work station.
 (LW)    In the 17th century people were so baroque. They were luting in the streets.
+(LW)    Just reading that there's a small island off the coast of Italy which is inhabited by 5 million Sicillion people. That's the biggest number I've ever heard.
 
 (LS)    Before you judge a man, walk a mile in his shoes. After that who cares? He'a a mile away and you've got his shoes!
 (LS)    My 3 favorite things are eating my family and not using commas.
@@ -325,6 +325,7 @@
 (LS)    Poop jokes aren't my favorite kind of joke. But they are a solid #2.
 (LS)    When I'm around my Spanish-speaking friends I always use the word "mucho" as much as possible...It means a lot to them.
 
+(LSW)		When I moved into my new igloo my friends threw me a surprise house-warming party. Now I’m homeless!
 (LSW)   Just got hospitalized due to a peekaboo accident. They put me in the ICU.
 (LSW)   In the old west, they would mount a lantern on their horse for travelling at night. It was the 1st form of saddle light navigation.
 (LSW)   As kids we used to throw Scrabble tiles at each other, until Mom shouted "stop it before someone loses an i"
