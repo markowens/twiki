@@ -273,7 +273,6 @@
 (LW)		What do you call a zombie who write music? A decomposer.
 (LW)		What word starts with E and ends with E but only has one letter in it? Envelope.
 (LW)		What do you call a cow in an earthquake? A milkshake!
-(LW)		What do you call a cow in an earthquake? A milkshake!
 (LW)		How can you drop an egg onto a concrete floor without cracking it? Any way you want, concrete floors are very hard to crack.
 (LW)		I went to see the doctor about my blocked ear. "Which ear is it?", he asked. "2022", I replied!
 (LW)		I lost my wife’s audiobook….And now I’ll never hear the end of it!
@@ -307,7 +306,7 @@
 (LS)    Dentists always ask dumb questions like "when's the last time you flossed?". I'm like bro, you were there!
 (LS)    I asked my wife why she married me. She said, "because you're so funny and make me laught so much." I told her I thought it was because I was so charming and good looking. She replied, "See? You're hilarious!"
 (LS)    I can cut a piece of wood in half just by looking at it...it's true. I saw it with my own eyes.
-(LS)    I went to a restaurant yesterday and ate a pelican sandwich. It tasted ok, but the bill was huge!
+(LS)    I went to a restaurant yesterday and ate a sandwich. It tasted ok, but the bill was huge!
 (LS)    A copy of "A Christmas Carol" just fell on my toe. It hurts like the Dickens!
 (LS)    Every morning I take my pet cow for a long walk in the local vineyard. Yep...i herd it through the grapevine.
 (LS)    What's red white, and blue all over? A sad candy cane!
@@ -369,6 +368,7 @@
 (LSW)		On or way home my friend said: "Let's stop and visit my brother Nickolas". So we took the see Nick route.
 (LSW)		Everybody knows that Albert Einstein was a genius....but his brother Frank was a real monster!
 (LSW)   If you serve your kids frozen pizza or chicken nuggets for dinner, you are a terrible parent...I don't care how busy you are, find the time to microwave them.
+(LSW)   The moon is actually more useful that the sun, since the moon gives us light at night, when it's dark. The sun only gives us light in the day, when it's already bright!
 (LSW)		What smells better than it tastes?  A nose.
 (LSW)		When I was young, I was poor. But after years of struggle....I'm no longer young.
 (LSW)		When I was a kid, my mother told me I could be anyone I wanted to be. Turns out, identity theft is a crime.
