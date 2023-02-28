@@ -372,6 +372,7 @@
 (LSW)		Everybody knows that Albert Einstein was a genius....but his brother Frank was a real monster!
 (LSW)   If you serve your kids frozen pizza or chicken nuggets for dinner, you are a terrible parent...I don't care how busy you are, find the time to microwave them.
 (LSW)   The moon is actually more useful that the sun, since the moon gives us light at night, when it's dark. The sun only gives us light in the day, when it's already bright!
+(LSW)   What did the full glass of water say to the empty glass of water? You look drunk.
 (LSW)		What smells better than it tastes?  A nose.
 (LSW)		When I was young, I was poor. But after years of struggle....I'm no longer young.
 (LSW)		When I was a kid, my mother told me I could be anyone I wanted to be. Turns out, identity theft is a crime.
