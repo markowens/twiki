@@ -31,7 +31,6 @@
 (W)			I thought the dryer made my clothes shrink. Turns out it was the refrigerator.
 (W)     What do you call a snake that's exactly 3.13 meters long? A πthon.
 
-(SW)		Last year I joined a support group for procrastinators. We haven't met yet.
 
 (LW)     I'm an optimistic pessimist. I'm positive things will go wrong.
 (LW) 		A sweater I purchased was picking up static electricity, so I returned it to the store. They gave me another one free of charge.
@@ -301,7 +300,6 @@
 (LS)    What do you call a snowman who vacations in the tropics? A puddle.
 (LS)    I accidentally drank a bottle of invisible ink last night. I'm in the hospital now, waiting to be seen.
 (LS)    I wanted to go jogging, but Proverbs 28:1 says "The wicked run when no one is chasing them"...so there's that!
-(LS)    Last year I joined a support group for procrastinators. We haven't met yet.
 (LS)    Saw a man standing on one leg at an ATM. Confused, I asked him what he was doing..He said: "Just checking my balance."
 (LS)    Dentists always ask dumb questions like "when's the last time you flossed?". I'm like bro, you were there!
 (LS)    I asked my wife why she married me. She said, "because you're so funny and make me laught so much." I told her I thought it was because I was so charming and good looking. She replied, "See? You're hilarious!"
@@ -344,6 +342,7 @@
 (LSW)   I got a job as senior director at Old MacDonald's Farm. I'm the CIEIO.
 (LSW)   What do you call a turkey on the day after Thanksgiving? Lucky.
 (LSW)   When I was a kid, I told my mom I was going to run away. She said "On your mark..."
+(LSW)   Last year I joined a support group for procrastinators. We haven't met yet.
 (LSW)   Who doesn't eat on Thanksgiving? A turkey, because it is always stuffed.
 (LSW)   I tried being a comedian, but I had to give it up....people kept laughing at me.
 (LSW)   I was so bored sitting at home that I memorized six pages of the dictionary. I learned next to nothing.
@@ -373,6 +372,7 @@
 (LSW)   If you serve your kids frozen pizza or chicken nuggets for dinner, you are a terrible parent...I don't care how busy you are, find the time to microwave them.
 (LSW)   The moon is actually more useful that the sun, since the moon gives us light at night, when it's dark. The sun only gives us light in the day, when it's already bright!
 (LSW)   What did the full glass of water say to the empty glass of water? You look drunk.
+(LSW)   How does a computer get drunk? It takes screen shots.
 (LSW)		What smells better than it tastes?  A nose.
 (LSW)		When I was young, I was poor. But after years of struggle....I'm no longer young.
 (LSW)		When I was a kid, my mother told me I could be anyone I wanted to be. Turns out, identity theft is a crime.
