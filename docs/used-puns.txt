@@ -13,6 +13,7 @@
 (S)     A farmer took his baby goat to the vet after it had been limpig for about a week. It was diagnosed with a kid knee infection.
 
 
+(W)     If it's raining cats and dogs don't step on a poodle.
 (W)     Never iron a four leaf clover. You don't want to press your luck!
 (W)     I wanted to thank everyone for sticking with me while I figured out the meaning of "many". It means a lot.
 (W)     I got into a fight with 1, 3, 5, 7, and 9. The odds were against me.
@@ -305,6 +306,7 @@
 (LS)    I asked my wife why she married me. She said, "because you're so funny and make me laught so much." I told her I thought it was because I was so charming and good looking. She replied, "See? You're hilarious!"
 (LS)    I can cut a piece of wood in half just by looking at it...it's true. I saw it with my own eyes.
 (LS)    I went to a restaurant yesterday and ate a sandwich. It tasted ok, but the bill was huge!
+(LS)    What do you call a teacher that won't fart in public? A private tutor.
 (LS)    A copy of "A Christmas Carol" just fell on my toe. It hurts like the Dickens!
 (LS)    Every morning I take my pet cow for a long walk in the local vineyard. Yep...i herd it through the grapevine.
 (LS)    What's red white, and blue all over? A sad candy cane!
