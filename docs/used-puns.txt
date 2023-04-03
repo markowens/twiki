@@ -37,7 +37,6 @@
 (LW) 		A sweater I purchased was picking up static electricity, so I returned it to the store. They gave me another one free of charge.
 (LW)		I tried to sue the airline for misplacing my luggage....I lost my case!
 (LW)		My bank really likes me. They called me and said my credit card balance is outstanding
-(LW)		I'm reading a horror book in Braille. Something bad is going to happen. I can feel it.
 (LW)    I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank. I have no words to describe how angry I am.
 (LW)    What do you call a kid who doesn’t believe in Santa? A rebel without a Claus.
 (LW)    What is the best Christmas present? A broken drum, you just can’t beat it.
@@ -52,6 +51,7 @@
 (LW)    To whoever stole my copy of Microsoft Office, I will find you. You have my Word!
 (LW)    If a child refuses to sleep during nap time, are they guilty of resisting a rest?
 (LW)    What do Santa's elves listen to ask they work? Wrap music!
+(LW)    I called my boss and asked if I could come in a little late. She said, "Dream on". I think that was really nice of her.
 (LW)    I thought about going on an all-almond diet… But that's just nuts!
 (LW)    I have a great joke about nepotism. But I'll only tell it to my kids.
 (LW)    Some people can't distinguish between etymology and entomology. They bug me in ways I can't put into words.
@@ -409,6 +409,7 @@
 (LSW)		If a cowboy is happy does that make him a Jolly Rancher?
 (LSW)   My teacher told me not to worry about spelling because in the future there will be auto-correct. And for that, I am eternally grapefruit!
 (LSW)		I saw a microbiologist today...He was much bigger than I expected.
+(LSW)		I'm reading a horror book in Braille. Something bad is going to happen. I can feel it.
 (LSW)   I asked my wife what she wanted for Christmas. She told me, “Nothing would make her happier than a diamond necklace.” So I bought her nothing.
 (LSW)   My wife told me that I should put a clean pair of socks on every day. By Friday, I couldn't get my shoes on.
 (LSW)		I went to an archaeology party  recently where they were only looking for remains of a lower leg...it was quite the shindig.
