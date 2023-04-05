@@ -12,7 +12,7 @@
 (S+)    I was just hired by a bicycle - wheel making company. I am their spokesperson.
 (S)     A farmer took his baby goat to the vet after it had been limpig for about a week. It was diagnosed with a kid knee infection.
 
-
+(W)     Never kiss your honey when their nose is runny. You may thinks it's funny. But it snot.
 (W)     If it's raining cats and dogs don't step on a poodle.
 (W)     Never iron a four leaf clover. You don't want to press your luck!
 (W)     I wanted to thank everyone for sticking with me while I figured out the meaning of "many". It means a lot.
@@ -294,6 +294,7 @@
 (LW)    In the 17th century people were so baroque. They were luting in the streets.
 (LW)    Just reading that there's a small island off the coast of Italy which is inhabited by 5 million Sicillion people. That's the biggest number I've ever heard.
 
+(LS)    The cashier told me "Strip down facing me". By the time I realized they meant the debit card, it was too late.
 (LS)    Before you judge a man, walk a mile in his shoes. After that who cares? He'a a mile away and you've got his shoes!
 (LS)    My 3 favorite things are eating my family and not using commas.
 (LS)    Why was the sand wet? The seaweed.
