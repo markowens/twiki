@@ -3,7 +3,6 @@
 (L)			The guy at the furniture store told me the sofa would seat 5 people without any problems. Then it occurred to me, I don't think I know 5 people without any problems.
 (L)			I recently bought a toilet brush....long story short, I'm going back to toilet paper.
 
-(S)			I asked the surgeon if I could administer my own anesthetic. He said: "Sure, knock yourself out!"
 (S)			The squirrels must be expecting a cold winter. They're gathering more nuts than usual! Yesterday my sisters disappeared!
 (S) 		Why did the triangle feel sorry for the circle? It was pointless.
 (S)			Why can't you tell a joke to an egg? It might crack up.
@@ -298,6 +297,7 @@
 (LS)    Before you judge a man, walk a mile in his shoes. After that who cares? He'a a mile away and you've got his shoes!
 (LS)    My 3 favorite things are eating my family and not using commas.
 (LS)    Why was the sand wet? The seaweed.
+(LS)    
 (LS)    Where do dad's store all their dad jokes? In the dad-a-base!
 (LS)    What do you call a snowman who vacations in the tropics? A puddle.
 (LS)    I accidentally drank a bottle of invisible ink last night. I'm in the hospital now, waiting to be seen.
@@ -324,6 +324,8 @@
 (LS)    I wonder what my parents did to fight boredom before the internet? I asked my 18 brothers and sisters and they don't know either.
 (LS)    Poop jokes aren't my favorite kind of joke. But they are a solid #2.
 (LS)    When I'm around my Spanish-speaking friends I always use the word "mucho" as much as possible...It means a lot to them.
+
+(SW)    I asked the surgeon if I could administer my own anesthetic. He said: "Sure, knock yourself out!"
 
 (LSW)   In college I was so broke I couldn't afford the electricity bill. Those were the darkest days of my life.
 (LSW)		When I moved into my new igloo my friends threw me a surprise house-warming party. Now I’m homeless!
