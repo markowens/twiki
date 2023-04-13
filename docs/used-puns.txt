@@ -99,7 +99,6 @@
 (LW)		My doctor told me I'm going deaf. The news war hard for me to hear.
 (LW)		I've started telling people about the benefits of dried grapes. It's all about raisin awareness!
 (LW)		Today I started an argument with my wife while riding in an elevator. I was wrong on so many levels.
-(LW)		I just found out that my father was a mime. He never spoke about it.
 (LW)		What does "idk" stand for? I've asked lots of people but nobody seems to know.
 (LW)		I had a date last night, it was perfect. Tomorrow I'll try a grape.
 (LW)		Boss told me that as a security guard, it's my job to watch the office. I'm on season 6 but I'm not really sure what it's got to do with security.
@@ -427,6 +426,7 @@
 (LSW)   Why do nurses always carry red crayons? In case they need to draw blood.
 (LSW)		What do you call a medieval spy? Sir Veillance.
 (LSW)		I'm going to take up coin collecting. The change will do me good.
+(LSW)   My wife told me I've grown as a person. Her actual words were "you've gotten fat", but I know what she meant!
 (LSW)   I had the rudest, slowest and nastiest cashier today! That's it! I'm done with using the self checkout lane!
 (LSW)   Before I got married, I didn't even know there was a wrong way to put the milk back in the fridge.
 (LSW)		What do you call security guards working outside Samsung shops? Guardians of the Galaxy.
