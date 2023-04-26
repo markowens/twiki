@@ -42,7 +42,6 @@
 (LW)    Why is it getting harder to buy Advent calendars? Their days are numbered!
 (LW)    Why was the snowman looking through the carrots? He was picking his nose!
 (LW)    I was going to tell a time-traveling joke, but you guys didn't like it.
-(LW)    My boss calls me "the computer". Nothing to do with intelligence, I go to sleep if left unattended for 15 minutes.
 (LW)    Why did the invisible man turn down the job offer? He couldn't see himself doing it!
 (LW)    My wife told me I had to stop acting like a flamingo. So I had to put my foot down!
 (LW)    I'm so good at sleeping I can do it with my eyes closed!
@@ -343,6 +342,8 @@
 (LSW)   Two things to consider about mariage: On one hand, you get to wear a cool ring. On the other hand, you don't.
 (LSW)   3,027 years from today, life will either be really good, or really bad! It's 5050...
 (LSW)   Don't you hate it when you read read as read and not read, so you have to re-read read as read so you can read read correctly and it can make sense.
+(LSW)   We argued all day about what to call a medieval soldier. But it was getting late so we called it a knight.
+(LSW)   My boss calls me "the computer". Nothing to do with intelligence, I go to sleep if left unattended for 15 minutes.
 (LSW)   My boss wants me to sign up for a 401K. No way I'm running that far!
 (LSW)   What do you call a snowman with a six pack? An abdominal snowman.
 (LSW)   I don't want to brag or make anyone jealous, but I can still fit into the socks I wore in high school.
