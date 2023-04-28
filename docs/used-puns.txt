@@ -31,7 +31,7 @@
 (W)			I thought the dryer made my clothes shrink. Turns out it was the refrigerator.
 (W)     What do you call a snake that's exactly 3.13 meters long? A πthon.
 
-
+(LW)    Why are Zoey and Zoe pronouced the same but Joey and Joe aren't?
 (LW)     I'm an optimistic pessimist. I'm positive things will go wrong.
 (LW) 		A sweater I purchased was picking up static electricity, so I returned it to the store. They gave me another one free of charge.
 (LW)		I tried to sue the airline for misplacing my luggage....I lost my case!
@@ -184,7 +184,6 @@
 (LW)		When I was a kid, my mom told me I could be anyone I wanted to be. Turns out, identity theft is a crime!
 (LW)		In Britain, they call it a “lift” but we Americans call it an “elevator”. I guess we’re just raised differently.
 (LW)		Whoever came up with the word ‘dentures’ really missed the opportunity to call them “substitooths”.
-(LW)		My wife sent me a text that said, “Your great”. So, naturally, I wrote back, “No, you’re great” She’s been walking around all day happy and smiling. Should I tell her I was just correcting her grammar or leave it alone?
 (LW)		Interviewer: What would you say is your biggest strength? Me. I’m very fast at math. Interviewer: Alright. What is 39 times 28? Me: 67 Interviewer: That’s not even close. Me: No, but it was fast!
 (LW)		Madonna is trying to get the Spice Girls back together. They’re gonna call her Old Spice!
 (LW)		Research has shown that laughing for 2 minutes is just as healthy as a 20 minute jog! So now I just sit in the park laughing at all the joggers!
@@ -376,6 +375,7 @@
 (LSW)   My ex-girlfriend just told me she wants us to get back together again. Man, I sure am Lucky! I mean, first I win the lottery and now this!
 (LSW)   My doctor told me to watch what I eat. So I went to a petting zoo.
 (LSW)   How do you wash your hands over the holiday? With Santatizer.
+(LSW)		My wife sent me a text that said, “Your great”. So, naturally, I wrote back, “No, you’re great” She’s been walking around all day happy and smiling. Should I tell her I was just correcting her grammar or leave it alone?
 (LSW)   Just a warning. If you buy a watch that says you can swim with it. This only applies if you can already swim!
 (LSW)   How did Scrooge win the football game? The ghost of Christmas passed.
 (LSW)   What do you call people who are afraid of Santa Clause? Claus-trophobic.
