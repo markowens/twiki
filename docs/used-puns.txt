@@ -338,6 +338,7 @@
 (LSW)   What do you call a boat full of buddies? A friendship!
 (LSW)   I won $3 million and donated a quarter of it to charity. Now I have $2,999,999.75.
 (LSW)   According to the BMI chart at the doctor's office...I'm too short!
+(LSW)   My wife accuses me of exaggerating.She must have said this a million times.
 (LSW)   What's the difference between ignorance and apathy? I don't know and I don't care!
 (LSW)   I was playing chess with my friend and he said, "Let's make this interesting." So we stopped playing chess.
 (LSW)   Two things to consider about mariage: On one hand, you get to wear a cool ring. On the other hand, you don't.
