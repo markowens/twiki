@@ -127,6 +127,7 @@
 (LSW)    My boss wants me to sign up for a 401K. No way I'm running that far!
 (LSW)    My doctor told me to watch what I eat. So I went to a petting zoo.
 (LSW)    My ex-girlfriend just told me she wants us to get back together again. Man, I sure am Lucky! I mean, first I win the lottery and now this!
+(LSW)    My friend Jack claims he can communicate with vegetables. Jack and the beans talk!
 (LSW)    My friend interrupted my day at work and said he's changing his name to "Spinal Cord". I told him I didn't have time to chat so I'd just call him Back.
 (LSW)    My kids were walking around clucking like chickens while I was on a conference call. I had to put myself on mute and ask them to stop...I will not tolerate fowl language in this house.
 (LSW)    My salad last night was a bit on the dry side. It was a situation that needed addressing!
