@@ -3,8 +3,8 @@
 (L)      My math teacher called me average. How mean!
 (L)      The guy at the furniture store told me the sofa would seat 5 people without any problems. Then it occurred to me, I don't think I know 5 people without any problems.
 
+(LS)     A cement mixer has collided with a prison van. Motorists are advised to look out for 16 hardened criminals.
 (LS)     A copy of "A Christmas Carol" just fell on my toe. It hurts like the Dickens!
-(LS)     Before you judge a man, walk a mile in his shoes. After that who cares? He'a a mile away and you've got his shoes!
 (LS)     Dentists always ask dumb questions like "when's the last time you flossed?". I'm like bro, you were there!
 (LS)     Every morning I take my pet cow for a long walk in the local vineyard. Yep...i herd it through the grapevine.
 (LS)     How much did Santa pay for his sleigh? Nothing! It was on the house!
@@ -476,6 +476,7 @@
 
 (SW)     I asked the surgeon if I could administer my own anesthetic. He said: "Sure, knock yourself out!"
 
+(W)      A book just fell on my head. I only have my shelf to blame.
 (W)      Be a minimalist...it's the least you can do.
 (W)      How may spiders does it take to create an app? None. Spikers don't make apps; they only design web sites!
 (W)      How much does a roof cost? Nothing. It's on the house.
