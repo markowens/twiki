@@ -155,6 +155,7 @@
 (LSW)    On or way home my friend said: "Let's stop and visit my brother Nickolas". So we took the see Nick route.
 (LSW)    One of my favorite memories as a kid was when my brothers used to put me inside a tire and role me down a hill. Those were Goodyears!
 (LSW)    Oops, forgot to get to the gym today! That makes 8 years in a row now!
+(LSW)    Parrot was rude but saw turkey dinner and was no longer rude. (Send 2023/06/05)
 (LSW)    People are usually shocked when they find out I'm not a very good electrician.
 (LSW)    People say that 60 is the new 40. The cop that just pulled me over doesn't agree!
 (LSW)    So I went to the doctor's this morning and told him that every time I cough, I hear words like knight, bishop, pawn, and queen. He said I had a chess infection.
@@ -348,7 +349,6 @@
 (LW)     Madonna is trying to get the Spice Girls back together. They’re gonna call her Old Spice!
 (LW)     My New Year’s resolution is to read more….so I’ve turned on the subtitles on my television!
 (LW)     My bank really likes me. They called me and said my credit card balance is outstanding
-(LW)     My bank really likes me. They called me and said my credit card balance is outstanding!
 (LW)     My boss asked me why I only get sick on work days. I said it must be my weekend immune system.
 (LW)     My boss asked me why I only get sick on work days. I said it must be my weekend immune system.
 (LW)     My boss told me that as a security guard, it's my job to watch the office. I'm on season 6 but I'm not really sure what it's got to do with security!
@@ -423,7 +423,6 @@
 (LW)     What do you call the soft tissue between a sharks teeth? The slow swimmer.
 (LW)     What do you get if you put a duck in a cement mixer? Quacks in the pavement!
 (LW)     What do you get if you put a duck in a cement mixer? Quacks in the pavement.
-(LW)     What does "idk" stand for? I've asked lots of people but nobody seems to know.
 (LW)     What does "idk" stand for? I've asked lots of people but nobody seems to know.
 (LW)     What happens if someone slaps you at a high frequency? It Hertz!
 (LW)     What is a pumpkin’s circumference divided by a pumpkin’s diameter? Pumpkin Pi.
