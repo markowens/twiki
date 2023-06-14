@@ -1,5 +1,4 @@
 (L)      I recently bought a toilet brush....long story short, I'm going back to toilet paper.
-(L)      My friend asked me, "what's the best part about living in Switzerland?" I said "I don't know, but the flag is a big plus."
 (L)      The guy at the furniture store told me the sofa would seat 5 people without any problems. Then it occurred to me, I don't think I know 5 people without any problems.
 
 (LS)     A cement mixer has collided with a prison van. Motorists are advised to look out for 16 hardened criminals.
@@ -50,6 +49,7 @@
 (LSW)    According to the BMI chart at the doctor's office...I'm too short!
 (LSW)    As an American, it makes me so sad to see that nothing is made in the USA anymore. I just bought this new TV and it says "Built-in Antenna." I don't even know where that is!
 (LSW)    As kids we used to throw Scrabble tiles at each other, until Mom shouted "stop it before someone loses an i"
+(LSW)    Baby changing stations are a hoax. The parents always come out with the same kid.
 (LSW)    Before I got married, I didn't even know there was a wrong way to put the milk back in the fridge.
 (LSW)    Bit upset today. I've lost my Atlas. It meant the world to me...
 (LSW)    Breaking news: A nine year old girl that has disappeared after using moisturiser that makes you look ten years younger.
@@ -270,7 +270,6 @@
 (LW)     I don't trust stairs. They're always up to something.
 (LW)     I dropped my phone and I was surprised that it didn't hit the floor. Turns out it was in airplane mode!
 (LW)     I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank. I have no words to describe how angry I am.
-(LW)     I finally bought the limited edition Thesaurus that I’ve always wanted. But when I opened it, all the pages were blank. I have no words to describe how angry I am!
 (LW)     I found a coin on the street the other day and it had teeth marks all over it. It was a Bitcoin!
 (LW)     I got a hen to regularly count her own eggs. She's a real mathamachicken!
 (LW)     I got hit in the head with a can of Pepsi yesterday. But don’t worry. It was a soft drink!
@@ -362,6 +361,7 @@
 (LW)     My friend has designed an invisible airplane. I can't see it taking off!
 (LW)     My friend keeps saying “cheer up mate, it could be worse, you could be stuck underground in a hole full of water!” I know he means well.
 (LW)     My friend keeps saying “cheer up mate, it could be worse, you could be stuck underground in a hole full of water!” I know he means well.
+(LW)     My friend asked me, "what's the best part about living in Switzerland?" I said "I don't know, but the flag is a big plus."
 (LW)     My math teacher called me average. How mean!
 (LW)     My old job involved crushing cans. I had to quit because it was soda-pressing!
 (LW)     My son, Luke, loves how I named our kids after Star Wars characters…My daughter, Chewbacca, not so much!
