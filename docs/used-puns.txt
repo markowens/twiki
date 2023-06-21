@@ -1,4 +1,4 @@
-* What do you call cheese that isn't yours? Nacho Cheese
+* 
 * What is the difference between Iron man and Iron Woman? One is a superhero and the other is a simple command.
 
 
@@ -190,6 +190,7 @@
 (LSW)    What do you call a reluctant potato? A hesitater.
 (LSW)    What do you call a snowman with a six pack? An abdominal snowman.
 (LSW)    What do you call a turkey on the day after Thanksgiving? Lucky.
+(LSW)    What do you call cheese that isn't yours? Nacho Cheese
 (LSW)    What do you call people who are afraid of Santa Clause? Claus-trophobic.
 (LSW)    What do you call security guards working outside Samsung shops? Guardians of the Galaxy.
 (LSW)    What do you call two birds stuck together? Velcrows.
