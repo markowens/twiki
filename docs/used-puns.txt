@@ -9,7 +9,6 @@
 (LS)     A cement mixer has collided with a prison van. Motorists are advised to look out for 16 hardened criminals.
 (LS)     A copy of "A Christmas Carol" just fell on my toe. It hurts like the Dickens!
 (LS)     At the age of 65 my Grandma started walking 10 miles a day. She's 92 now and we have no idea where she is.
-(LS)     Dentists always ask dumb questions like "when's the last time you flossed?". I'm like bro, you were there!
 (LS)     Every morning I take my pet cow for a long walk in the local vineyard. Yep...i herd it through the grapevine.
 (LS)     Hired a handy man and gave him a list. When I got home, only items 1, 3, and 5 were done. Turns out, he only does odd jobs.
 (LS)     How much did Santa pay for his sleigh? Nothing! It was on the house!
@@ -36,6 +35,7 @@
 (LS)     What do you call a teacher that won't fart in public? A private tutor.
 (LS)     What do you do when you're being attacked by a group of clowns? Go for the juggler.
 (LS)     What's red white, and blue all over? A sad candy cane!
+(LS)     What is the difference between Iron man and Iron Woman? One is a superhero and the other is a simple command.
 (LS)     When I'm around my Spanish-speaking friends I always use the word "mucho" as much as possible...It means a lot to them.
 (LS)     Where do dad's store all their dad jokes? In the dad-a-base!
 (LS)     Which computer has the best voice? A Dell.
@@ -81,7 +81,8 @@
 (LSW)    I don't understand why banks get upset when you can't repay a loan...they already knew I had no money when I came to borrow it!
 (LSW)    I don't want to brag or make anyone jealous, but I can still fit into the socks I wore in high school.
 (LSW)    I failed my driver's test today. The instructor asked me, "What do you do at a red light"? I said, "I usually check Twitter and also see what people are up to on Facebook."
-(LSW)    I got a job as senior director at Old MacDonald's Farm. I'm the CIEIO.
+(LSW)    I go
+(LSW)    Dentists always ask dumb questions like "when's the last time you flossed?". I'm like bro, you were there!t a job as senior director at Old MacDonald's Farm. I'm the CIEIO.
 (LSW)    I had an appointment to see my psychic next week. But she called my up and told me I wouldn't be able to make it.
 (LSW)    I got an email explaining how to read maps backwards....it was spam!
 (LSW)    I got called "pretty' today! Well actually the full statements was 'you're pretty annoying' But I only focus on positive things.
