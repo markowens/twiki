@@ -210,6 +210,7 @@
 (LSW)    When I moved into my new igloo my friends threw me a surprise house-warming party. Now I’m homeless!
 (LSW)    When I was a kid, I told my mom I was going to run away. She said "On your mark..."
 (LSW)    When I was a kid, my mother told me I could be anyone I wanted to be. Turns out, identity theft is a crime.
+(LSW)    When I was a kid, my parents would always say, "Excuse my French" just after a swear word...I'll never forget my first day at school when my teacher asked if any of use knew any French.
 (LSW)    When I was young, I was poor. But after years of struggle....I'm no longer young.
 (LSW)    When you're young, you play with them. Whey you get older, you start losing them? Your marbles!
 (LSW)    Where do little trees go to become Christmas trees? Elementree school!
