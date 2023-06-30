@@ -38,6 +38,7 @@
 (LS)     What's red white, and blue all over? A sad candy cane!
 (LS)     What is the difference between Iron man and Iron Woman? One is a superhero and the other is a simple command.
 (LS)     When I'm around my Spanish-speaking friends I always use the word "mucho" as much as possible...It means a lot to them.
+(LS)     What's the difference between a man buying a lottery ticket and a man arguing with his wife? The man buying a lottery ticket actually has a chance to win!
 (LS)     Where do dad's store all their dad jokes? In the dad-a-base!
 (LS)     Which computer has the best voice? A Dell.
 (LS)     Why can't cats play poker in the jungle? Too many cheetahs!
@@ -264,6 +265,7 @@
 (LW)     Got home from work today to find my kids have been on eBay all day. If they are still there tomorrow I will lower the price!
 (LW)     Got stopped in the street and asked why was I carrying a 9 ft. book? I said, it's a long story.
 (LW)     How can you drop an egg onto a concrete floor without cracking it? Any way you want, concrete floors are very hard to crack.
+(LW)     How do pickles celebrate their birthdays? they relish them!
 (LW)     How do you find Will Smith in the snow? Look for fresh prints!
 (LW)     How do you make the number one disappear? You just add a G and it's gone.
 (LW)     How do you make the number one disappear? You just add a G and it's gone.
