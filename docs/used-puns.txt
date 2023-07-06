@@ -1,8 +1,3 @@
-* 
-* What is the difference between Iron man and Iron Woman? One is a superhero and the other is a simple command.
-
-
-
 (L)      I recently bought a toilet brush....long story short, I'm going back to toilet paper.
 (L)      The guy at the furniture store told me the sofa would seat 5 people without any problems. Then it occurred to me, I don't think I know 5 people without any problems.
 
@@ -18,6 +13,8 @@
 (LS)     I cut myself shredding cheese. I wanted to blame someone else, but then I remembered, with grate power come grate responsibility.
 (LS)     I decided to make sure my wife woke up with a big smile on her face this morning. Now I can't have Sharpies in the house anymore!
 (LS)     I have an idea for a chain of Elvis steak houses. It will be for people who love meat tender.
+(LS)     I have invented a game called: Silent Tennis. It's like regular tennis but without the racket.
+(LS)     I own intelligent farm animals. One's learned to drive a boat. I'd shou you, but unfortunately that sheep has already sailed.
 (LS)     I said to the stewardess "What height are we flying at?". She replied: "36000 ft or maybe 33000 ft...what does it matter, you idiot?". She definitely had an altitude problem.
 (LS)     I saw a man crying while mowing his lawn. I asked him. "Is everything OK?" He replied: "I'm just going through a rough patch."
 (LS)     I wanted to go jogging, but Proverbs 28:1 says "The wicked run when no one is chasing them"...so there's that!
@@ -86,6 +83,7 @@
 (LSW)    I go
 (LSW)    Dentists always ask dumb questions like "when's the last time you flossed?". I'm like bro, you were there!t a job as senior director at Old MacDonald's Farm. I'm the CIEIO.
 (LSW)    I had an appointment to see my psychic next week. But she called my up and told me I wouldn't be able to make it.
+(LSW)    I had the worst night last night. The ghost of Gloria Gaynor appeared in front of my bed. At first I was afraid, then I was petrified!
 (LSW)    I got an email explaining how to read maps backwards....it was spam!
 (LSW)    I got called "pretty' today! Well actually the full statements was 'you're pretty annoying' But I only focus on positive things.
 (LSW)    I got fired from the bank today. Turns out the owners get really upset when you hand out free samples.
@@ -119,6 +117,7 @@
 (LSW)    I was flying a kite in the park today and this fella came up and asked: "You flying a kite?". I blinked and replied with a straight face: "Nope, I'm fishing for birds!"
 (LSW)    I was playing chess with my friend and he said, "Let's make this interesting." So we stopped playing chess.
 (LSW)    I was so bored sitting at home that I memorized six pages of the dictionary. I learned next to nothing.
+(LSW)    I was thrown out of the break room of my Walmart yesterday. They asked me what I was doing there. I told them I was on a break. They said you don't work here. I said I'd just finished using the self-checkout so clearly I do.
 (LSW)    I was terrible at spelling when I was at school. Brilliant at jography though!
 (LSW)    I was watching a show called "Ten Ways to Avoid a Shark Attack" and was surprised that stay out of the water wasn't on the list.
 (LSW)    I went to a smoke shop only discover it was now an apparel store. Clothes, but no cigar.
@@ -244,7 +243,6 @@
 (LW)     A Vicks VapoRub truck overturned on the highway this morning. Amazingly, there was no congestion for eight hours!
 (LW)     A bus station is where a bus stops. A train station is where a train stops. On my desk, I have a work station.
 (LW)     A man goes to a funeral and asks the widow: “Mind if I say a word?”. She says: “Please do.” The man clears his throat and says: “Bargain.” The widow replies: “Thanks, that means a great deal!”
-(LW)     A man goes to a funeral and asks the widow: “Mind if I say a word?”. She says: “Please do.” The man clears his throat and says: “Bargain.” The widow replies: “Thanks, that means a great deal!”
 (LW)     A sweater I purchased was picking up static electricity, so I returned it to the store. They gave me another one free of charge.
 (LW)     A travel agent told me he could get me a free trip to Egypt if I could get five other people to sign up too. It sounded like a pyramid scheme to me.
 (LW)     Bigfoot is sometimes confused with Sasquatch…Yeti never complains.
@@ -278,7 +276,6 @@
 (LW)     I asked an old man I know, “Even after 95 years, you still call your wife ‘Darling’, ‘Honey’, ‘Love’. What’s the secret? Old man: “I forgot her name 10 years ago and I’m scared to ask her”
 (LW)     I asked my dad how it felt to have the best son in the world. He told me to ask my grandpa!
 (LW)     I asked my daughter to give me the phone book! She laughed at me, called me a dinosaur and lent me her iPhone. So now the spider is dead, the iPhone is broken and my daughter is furious!
-(LW)     I asked my daughter to give me the phone book! She laughed at me, called me a dinosaur and lent me her iPhone. So now the spider is dead, the iPhone is broken and my daughter is furious!
 (LW)     I asked my friend Sam to sing a song about smartphones the other day…..Samsung!
 (LW)     I asked the surgeon if I could administer my own anesthetic. He said: “Sure, knock yourself out!”
 (LW)     I called my boss and asked if I could come in a little late. She said, "Dream on". I think that was really nice of her.
@@ -296,7 +293,6 @@
 (LW)     I had a date last night, it was perfect. Tomorrow I'll try a grape!
 (LW)     I had a date last night, it was perfect. Tomorrow I'll try a grape.
 (LW)     I had a friend who was addicted to brake fluid. He said he could stop anytime!
-(LW)     I had the worst night last night. The ghost of Gloria Gaynor appeared in front of my bed. At first I was afraid, then I was petrified!
 (LW)     I have a fear of elevators, but I’ve started taking steps to avoid it!
 (LW)     I have a great joke about nepotism. But I'll only tell it to my kids.
 (LW)     I have a pen that can write underwater...it can write other words too!
@@ -326,6 +322,7 @@
 (LW)     I turned down a job where I would be paid in vegetables. The celery was unacceptable!
 (LW)     I used to be addicted to Thanksgiving leftovers. I had to quit cold turkey.
 (LW)     I used to work at a calendar factory, but I got fired after I took a couple of days off.
+(LW)     I wanted to thank everyone for sticking with me while I figured out the meaning of "many". It means a lot.
 (LW)     I was going to tell a time-traveling joke, but you guys didn't like it.
 (LW)     I was going to tell a time-traveling joke. But you guys didn’t like it!
 (LW)     I was in a job interview the other day and they asked if I could perform under pressure. I said no, but I could perform Bohemian Rhapsody.
@@ -495,15 +492,15 @@
 (LW)     Yesterday I saw an ad that said “Radio for sale, $1. Volume stuck on full blast.” I said to myself, “You can’t turn that down!”
 (LW)     You think gas prices are expensive, have you seen Chimneys? They’re through the roof!
 
-(S)      A farmer took his baby goat to the vet after it had been limpig for about a week. It was diagnosed with a kid knee infection.
 (S)      A thief broke into my house last night looking for money. So I got out of bed to look with him.
+(S)      I was just hired by a bicycle-wheel making company. I am their spokesperson.
 (S)      The squirrels must be expecting a cold winter. They're gathering more nuts than usual! Yesterday my sisters disappeared!
 (S)      What do you call a belt made of $100 bills? A waist of money.
 (S)      Why can't you tell a joke to an egg? It might crack up.
 (S)      Why did the triangle feel sorry for the circle? It was pointless.
 
-(S+)     I was just hired by a bicycle-wheel making company. I am their spokesperson.
 
+(SW)     A farmer took his baby goat to the vet after it had been limping for about a week. It was diagnosed with a kid knee infection.
 (SW)     I asked the surgeon if I could administer my own anesthetic. He said: "Sure, knock yourself out!"
 
 (W)      A book just fell on my head. I only have my shelf to blame.
@@ -514,7 +511,6 @@
 (W)      I got into a fight with 1, 3, 5, 7, and 9. The odds were against me.
 (W)      I haven't kept up my subscription to the Scrabble Club...now they've started sending me threatening letters...
 (W)      I thought the dryer made my clothes shrink. Turns out it was the refrigerator.
-(W)      I wanted to thank everyone for sticking with me while I figured out the meaning of "many". It means a lot.
 (W)      If it's raining cats and dogs don't step on a poodle.
 (W)      It was a sad and disappointing day when I discovered my Universal Remote Control did not, if fact, control the Universe.....not even remotely!
 (W)      My friend is losing his mind over missing a piece of his 5000 piece puzzle. If he thinks that's bad, I'm missing 4999 pieces.
