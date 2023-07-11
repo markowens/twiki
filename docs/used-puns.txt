@@ -220,6 +220,7 @@
 (LSW)    Why can't humans hear a dog whistle. Because dogs can't whistle.
 (LSW)    Why couldn't the green pepper practice archery? Because it didn't habanero!
 (LSW)    Why did St. Louis throw a party? Because Missouri loves company.
+(LSW)    Why did the chicken cross the playground? To get to the other slide.
 (LSW)    Why do ghosts ride elevators? To lift their spirits.
 (LSW)    Why do golfers carry an extra pair of pants with them when they go golfing? Just in case they get a hole in one.
 (LSW)    Why do horses have low divorce rates? They have stable relationships.
