@@ -26,12 +26,12 @@
 (LS)     Poop jokes aren't my favorite kind of joke. But they are a solid #2.
 (LS)     Saw a man standing on one leg at an ATM. Confused, I asked him what he was doing..He said: "Just checking my balance."
 (LS)     The cashier told me "Strip down facing me". By the time I realized they meant the debit card, it was too late.
+(LS)     The next time you dislike your life, remember it's all about perspective. I have a friend who reads 2-3 books a week, works out twice a day, has no financial worries, and has people who want to have sex with him all the time. And yet he constanctly complains about how much he hates prison!
 (LS)     Watched a movie on TV last night, with the warning that it had "adult situations". I was expecting acid reflux, arthritis, bad knees...It wasn't like that at all!
 (LS)     What did the third wise man say after his friends had already presented gold and frankincense? "But wait, there's myrrh!"
 (LS)     What do you call a nun who sleepwalks? A Roman Catholic.
 (LS)     What do you call a snowman who vacations in the tropics? A puddle.
 (LS)     What do you call a teacher that won't fart in public? A private tutor.
-(LS)     What do you do when you're being attacked by a group of clowns? Go for the juggler.
 (LS)     What's red white, and blue all over? A sad candy cane!
 (LS)     What is the difference between Iron man and Iron Woman? One is a superhero and the other is a simple command.
 (LS)     When I'm around my Spanish-speaking friends I always use the word "mucho" as much as possible...It means a lot to them.
@@ -202,8 +202,10 @@
 (LSW)    What do you call people who are afraid of Santa Clause? Claus-trophobic.
 (LSW)    What do you call security guards working outside Samsung shops? Guardians of the Galaxy.
 (LSW)    What do you call two birds stuck together? Velcrows.
+(LSW)    What do you do when you're being attacked by a group of clowns? Go for the juggler.
 (LSW)    What do you get from a pampered cow? Spoiled milk!
 (LSW)    What do you get if you eat Christmas decorations? tinsillitis!
+(LSW)    What goes up but never comes down? Your age.
 (LSW)    What has more letters than the alphabet? The Post Office.
 (LSW)    What idiot called it a "randomized clinical trial controlled with placebo" and not "trick or treatment"
 (LSW)    What kind of egg did the evil chicken lay? A deviled egg.
