@@ -3,7 +3,6 @@
 
 (LS)     A cement mixer has collided with a prison van. Motorists are advised to look out for 16 hardened criminals.
 (LS)     A copy of "A Christmas Carol" just fell on my toe. It hurts like the Dickens!
-(LS)     At the age of 65 my Grandma started walking 10 miles a day. She's 92 now and we have no idea where she is.
 (LS)     Every morning I take my pet cow for a long walk in the local vineyard. Yep...i herd it through the grapevine.
 (LS)     Hired a handy man and gave him a list. When I got home, only items 1, 3, and 5 were done. Turns out, he only does odd jobs.
 (LS)     How much did Santa pay for his sleigh? Nothing! It was on the house!
@@ -54,6 +53,7 @@
 (LSW)    According to the BMI chart at the doctor's office...I'm too short!
 (LSW)    As an American, it makes me so sad to see that nothing is made in the USA anymore. I just bought this new TV and it says "Built-in Antenna." I don't even know where that is!
 (LSW)    As kids we used to throw Scrabble tiles at each other, until Mom shouted "stop it before someone loses an i"
+(LSW)     At the age of 65 my Grandma started walking 10 miles a day. She's 92 now and we have no idea where she is.
 (LSW)    Baby changing stations are a hoax. The parents always come out with the same kid.
 (LSW)    Before I got married, I didn't even know there was a wrong way to put the milk back in the fridge.
 (LSW)    Bit upset today. I've lost my Atlas. It meant the world to me...
@@ -115,6 +115,7 @@
 (LSW)    I visited my friend at his new house. He told me to make myself at home. So I threw him out. I hate visitors.
 (LSW)    I want to say that comforters are always superior to quilts...but I don't like to make blanket statements.
 (LSW)    I wanted to be a doctor, but I didn't have the patients.
+(LSW)    I was in a job interview the other day and they asked if I could perform under pressure. I said no, but I could perform Bohemian Rhapsody.
 (LSW)    I was going to quit all my bad habits for the new year. But then I remembered that nobody likes a quitter.
 (LSW)    I was hurt yesterday when a chandelier fell on me. I went to the hospital but, fortunately, I only had light injuries!
 (LSW)    I was flying a kite in the park today and this fella came up and asked: "You flying a kite?". I blinked and replied with a straight face: "Nope, I'm fishing for birds!"
@@ -251,6 +252,7 @@
 (LW)     A man goes to a funeral and asks the widow: “Mind if I say a word?”. She says: “Please do.” The man clears his throat and says: “Bargain.” The widow replies: “Thanks, that means a great deal!”
 (LW)     A sweater I purchased was picking up static electricity, so I returned it to the store. They gave me another one free of charge.
 (LW)     A travel agent told me he could get me a free trip to Egypt if I could get five other people to sign up too. It sounded like a pyramid scheme to me.
+(LW)     A book just fell on my head. I only have my shelf to blame.
 (LW)     Bigfoot is sometimes confused with Sasquatch…Yeti never complains.
 (LW)     Boss told me that as a security guard, it's my job to watch the office. I'm on season 6 but I'm not really sure what it's got to do with security.
 (LW)     Did you hear about Arnold Schwarzenegger’s upcoming movie about classical music? It’s called I’ll Be Bach!
@@ -325,13 +327,10 @@
 (LW)     I tried to have a conversation with my wife when she was applying a mud mask. You should have seen the filthy look she gave me.
 (LW)     I tried to sue the airline for misplacing my luggage....I lost my case!
 (LW)     I turned down a job where I would be paid in vegetables. The celery was unacceptable!
-(LW)     I turned down a job where I would be paid in vegetables. The celery was unacceptable!
 (LW)     I used to be addicted to Thanksgiving leftovers. I had to quit cold turkey.
 (LW)     I used to work at a calendar factory, but I got fired after I took a couple of days off.
 (LW)     I wanted to thank everyone for sticking with me while I figured out the meaning of "many". It means a lot.
 (LW)     I was going to tell a time-traveling joke, but you guys didn't like it.
-(LW)     I was going to tell a time-traveling joke. But you guys didn’t like it!
-(LW)     I was in a job interview the other day and they asked if I could perform under pressure. I said no, but I could perform Bohemian Rhapsody.
 (LW)     I was on a diabetes awareness website and it asked me if I accept cookies...Is this a trick question?
 (LW)     I was playing with a boomerang and couldn't remember how to use it. Then it came back to me!
 (LW)     I was really struggling to get my wife’s attention….So, I sat down on the sofa and looked comfortable. That did the trick!
@@ -509,7 +508,6 @@
 (SW)     A farmer took his baby goat to the vet after it had been limping for about a week. It was diagnosed with a kid knee infection.
 (SW)     I asked the surgeon if I could administer my own anesthetic. He said: "Sure, knock yourself out!"
 
-(W)      A book just fell on my head. I only have my shelf to blame.
 (W)      Be a minimalist...it's the least you can do.
 (W)      Don't trust atoms. They make up everything!
 (W)      How may spiders does it take to create an app? None. Spikers don't make apps; they only design web sites!
