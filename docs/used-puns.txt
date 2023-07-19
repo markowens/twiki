@@ -3,7 +3,6 @@
 
 (LS)     A cement mixer has collided with a prison van. Motorists are advised to look out for 16 hardened criminals.
 (LS)     A copy of "A Christmas Carol" just fell on my toe. It hurts like the Dickens!
-(LS)     Every morning I take my pet cow for a long walk in the local vineyard. Yep...i herd it through the grapevine.
 (LS)     Hired a handy man and gave him a list. When I got home, only items 1, 3, and 5 were done. Turns out, he only does odd jobs.
 (LS)     How much did Santa pay for his sleigh? Nothing! It was on the house!
 (LS)     I accidentally drank a bottle of invisible ink last night. I'm in the hospital now, waiting to be seen.
@@ -13,6 +12,7 @@
 (LS)     I decided to make sure my wife woke up with a big smile on her face this morning. Now I can't have Sharpies in the house anymore!
 (LS)     I have an idea for a chain of Elvis steak houses. It will be for people who love meat tender.
 (LS)     I have invented a game called: Silent Tennis. It's like regular tennis but without the racket.
+(LS)     I hit a turkey and it flew over my car and landed on the car behind me. It was a cop...he pulled me over and gave me a ticket for flipping him the bird.
 (LS)     I own intelligent farm animals. One's learned to drive a boat. I'd show you, but unfortunately that sheep has already sailed.
 (LS)     I said to the stewardess "What height are we flying at?". She replied: "36000 ft or maybe 33000 ft...what does it matter, you idiot?". She definitely had an altitude problem.
 (LS)     I wanted to go jogging, but Proverbs 28:1 says "The wicked run when no one is chasing them"...so there's that!
@@ -64,6 +64,7 @@
 (LSW)    Did you know that the man who invented the Ferris Wheel never met the man who invented the Merry-Go-Round? They traveled in difference circles.
 (LSW)    Don't you hate it when you read read as read and not read, so you have to re-read read as read so you can read read correctly and it can make sense.
 (LSW)    Dove chocolate tastes way better than their soap.
+(LSW)    Every morning I take my pet cow for a long walk in the local vineyard. Yep...i herd it through the grapevine.
 (LSW)    Everybody knows that Albert Einstein was a genius....but his brother Frank was a real monster!
 (LSW)    Fun fact: "Sugar" is the only word in the English language where "su-" makes a "sh" sound. At least, I'm pretty sure that's correct.
 (LSW)    Give a man a fish, he'll eat for a day. Teach a man to fish, he'll waste hundreds of dollars on equipment he'll only use a few times a year.
