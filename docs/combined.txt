@@ -774,7 +774,7 @@
 (LW)   My doctor told me I'm going deaf. The news was hard for me to hear!
 (LSW)  My doctor told me to watch what I eat. So I went to a petting zoo.
 (LSW)  My ex-girlfriend just told me she wants us to get back together again. Man, I sure am Lucky! I mean, first I win the lottery and now this!
----    My ex-girlfriend still misses me, but her aim is getting better.
+(LSW)  My ex-girlfriend still misses me, but her aim is getting better.
        My family told me to stop telling Thanksgiving jokes, but I told them I couldn't quit "cold turkey".
        My father made the best bread. I asked him for his secret, but he wouldn't tell me. Said it was on a knead-to-dough basis only.
        My favorite childhood memory is building sand castles with my grandfather. Until my mother took the urn from me.
@@ -901,8 +901,7 @@
 (LSW)  My wife sent me a text that said, “Your great”. So, naturally, I wrote back, “No, you’re great” She’s been walking around all day happy and smiling. Should I tell her I was just correcting her grammar or leave it alone?
        My wife tells me I can be an idiot sometimes...I think it's pretty cool of her to give me permission like that...
 (LW)   My wife tells me I have 2 major faults. I don’t listen – and something else!
-(LW)   My wife thinks I don't give her enough privacy. At least that's what she said in her diary!
-(LW)   My wife thinks I don't give her enough privacy. At least that's what she said in her diary!
+(LSW)  My wife thinks I don't give her enough privacy. At least that's what she said in her diary!
        My wife thinks it's weird that I stare at the window during a heavy rainstorm. It would be a lot less weird if she'd just let me in.
        My wife thought our kids were spoiled but I think most kids smell like that.
        My wife threatened to leave me because of my "filthy and disgusting habits". I was so shocked I nearly choked on my toenails.
