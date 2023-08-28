@@ -168,6 +168,7 @@
 (LSW)  For his birthday, I got my son an alarm clock that swears at him instead of beeping. He's in for  a rude awakening.
        For my wife's birtday, I took her to sit in an orchard for a couple of hours. Not quite the Apple watch she was expecting.
        For the 10th year in a row, my coworkers voted me "the most secretive guy" in the office. I can't tell you how much this award means to me.
+       Forgetful cows give milk of amnesia. Pampered cows give spoiled milk, and nervouse couws give milk shakes.
 (LSW)  Fun fact: "Sugar" is the only word in the English language where "su-" makes a "sh" sound. At least, I'm pretty sure that's correct.
        Fun fact: Australia's biggest export is boomerangs. It's also their biggest import.
        Genie: I shall grant you 3 wishes. Me: I wish for a world without lawyers. Genie; Done, you have no more wishes. Me: But you said 3. Genie. So Sue me!
@@ -1217,6 +1218,7 @@
 (LW)   What do you call bear who’s lost all his teeth? A gummy bear.
        What do you call cheese that isn't yours? Nacho Cheese
 (LSW)  What do you call cheese that isn't yours? Nacho Cheese
+(LSWN) What do you call friends you like to eat with? Tastebuds.
        What do you call it when chewbacca messes something up? A wookie mistake.
 (LSW)  What do you call people who are afraid of Santa Clause? Claus-trophobic.
 (LSW)  What do you call security guards working outside Samsung shops? Guardians of the Galaxy.
