@@ -907,7 +907,7 @@ Said I was Dunkin' disorderly.
          My friend says to me, "What rhymes with orange?"And I told him, "No it doesn't!"
          My friend told me the worst job he ever had was as a cinema user. He was in a really dark place back then...
          My friend's wife left him last week. She said she was going ot for milk and never came back. I asked him how he was coping. He said, "Not bad. I've been using some of that powdered stuff."
----      My genetic experiments have produced a dolphin with legs! I'll become famous! Everyone's telling me to remove the legs, but that would defeet the porpoise.
+(LSCN)   My genetic experiments have produced a dolphin with legs! I'll become famous! Everyone's telling me to remove the legs, but that would defeet the porpoise.
          My girlfriend asked if I wanted to start doing yoga with her. I said that puts me in an awkward position.
 	       My girlfriend has left me because she says I'm so old fashioned. I'll wager a shilling she's courting a chap who's a scoundrel.
          My girlfriend poked me in the eyes....so I stopped seeing her for a while.
@@ -1541,7 +1541,7 @@ Said I was Dunkin' disorderly.
 (LSW)    Why do nurses always carry red crayons? In case they need to draw blood.
          Why do people come back from a baby changing station with the same baby?
          Why do people say they're having a tuna-fish sandwich? No one ever says they're having a chicken-bird sandwich.
----      Why do seagulls fly over the sea? Because if they flew over the bay, they'd be bagels.
+(W) ---  Why do seagulls fly over the sea? Because if they flew over the bay, they'd be bagels.
 (LW)     Why do secret agents get the best sleep? Because they’re always undercover.
          Why do trees seem suspicious on sunny days? They just seem a little shady!
          Why do you never see elephants hiding in trees? Because they're so good at it!
