@@ -58,7 +58,7 @@
 (LSW)    A shark could swim faster than me, but I could probably run faster than a shark. So in a triatlon, it would all come down to who is the better cyclist.
          A sheep herder is watching his dog herd all their sheep into a pen. The dog finishes and says "Master, I've got all 30 sheep in the pen". The man looks at the sheep, then back to the dog and says "but I only count 26". The dog says "I know, I rounded them up".
 (LS)     A slice of apple pie costs $2 in Jamaica. And $2.50 in the Bahamas. Those are the pie rates of the Caribbean.
-         A snake that counts is an adder.
+(W)      A snake that counts is an adder.
          A storm blew away 25% of my roof last night...Oof!
 (LSW)    A sweater I purchased was picking up static electricity, so I returned it to the store. They gave me another one free of charge.
 (SW)     A thief broke into my house last night looking for money. So I got out of bed to look with him.
@@ -76,6 +76,7 @@
 (LSW)    After dinner, my wife asked if I could clear the table. I needed a running start, but I made it!
          After fixing my computer, I overheard my grandson chatting with one of his friends saying it was just an ID ten T error. They both laughed. Not wanting to appear dumb, I walked away and wrote down the phrase: ID10T. He never was my favorite grandkid anyway!
          Always make sure SOMEONE in the relationship has good credit. That's why it's called SIGNIFICANT other. Sign/if/I/can't.
+         An apostrophe and a comma decide to go to couple's therapy. Even though the apostrophe was being possesive, the command didn't want to end things.
          An Englishman, a Frenchman, a Spaniard and a German are all standing watching a street performer do some excellent juggling. The juggler notices that the four gentlemen have a very poor view, so he stands up on a large wooden box and calls out, "Can you all see me now?" "Yes." "Oui." "Si." "Ja."
          An emergency call: "Come quick, my friend was bitten by a wolf!" Operator: "Where?" Caller: "No a regular one1"
          An old Japanese gardener asked me what I knew about bonsai trees. I said..."Very little."
@@ -1526,6 +1527,7 @@ Said I was Dunkin' disorderly.
          Why did the magazine company go out of business? Too many issues.
 (LW)     Why did the math book look so sad? Because of all of its problems!
          Why did the math textbook visit the guidance counselor? It needed help figuring out its problems.
+         Why did the meatballs tell the spaghetti to go to sleep? It was pasta bedtime.
 (LW)     Why did the picture go to jail? It was framed!
 (S)      Why did the triangle feel sorry for the circle? It was pointless.
 (LW)     Why did the vegetable cargo ship sink in the ocean? It had too many leeks.
