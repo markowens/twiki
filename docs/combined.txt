@@ -1581,7 +1581,7 @@ Said I was Dunkin' disorderly.
 (W)      Why did the chicken go to the gym? To work on his pecks.
          Why did the crab cross the road? It didn't - it used the sidewalk.
          Why did the dad joke cross the road? To get to the other sigh.
----      Why did the gargoyle quit his job guarding the castle? He was tired of being taken for granite.
+(LSWCN)  Why did the gargoyle quit his job guarding the castle? He was tired of being taken for granite.
 (LW)     Why did the invisible man turn down the job offer? He couldn't see himself doing it!
          Why did the magazine company go out of business? Too many issues.
 (LW)     Why did the math book look so sad? Because of all of its problems!
