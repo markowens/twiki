@@ -445,6 +445,7 @@
          I just burnt my Hawaiian Pizza. Should have used aloha temperature.
          I just called the paranoia hotline. A guy answered: "How the heck did you get this number?"
 (LSW)    "I just cleared out some space in the freezer" sounds so much more productive that "I just polished off another pint of ice cream.
+         I just couldn't sleep until I finished sanding some of the chess pieces I made. I had a few rough knights.
          I just dropped a heavy box of berries on my foot. Now I cranberry walk.
          I just figured out why Teslas are so expensive. It's because they charge  a lot.
 (LW)     I just found out my father was a mime.....he never spoke about it!
@@ -514,7 +515,7 @@
          I phoned my wife earlier and asked her if she wanted me to pick up fish and chips on my way home from work but she just grunted at me. I think she still regrets letting me name the twins.
          I phoned my work this morning and said, "Sorry boss, I can't come in today, I have a wee cough." He said, "You have a wee cough?" I said, "Really? Thanks boss, see you next week!"
 ---      I played frisbee with a dog yesterday. It didn't work out very well. I think I need a flatter dog.
-         I put a pair of glasses on and suddenlysaw a fella in a suit of armour. They were knight vision goggles...
+         I put a pair of glasses on and suddenly saw a fella in a suit of armour. They were knight vision goggles...
 (LSW)    I put my Grandma on speed dial....I call that instagram!
 ---      I put my phone under my pillow last night. When I woke up it was gone and there was a $1 in it's place. It was the Bluetooth Fairy!
          I quit calling my bathroom the John. I started calling it the gym so I could tell people I want to the gym every morning.
@@ -590,6 +591,7 @@
          I tried to write a drinking song, but I couldn't make it past the first few bars.
 	       I tripped and hit my head on a snare drum. I think I may have a percussion.. 
 (LW)     I turned down a job where I would be paid in vegetables. The celery was unacceptable!
+         I used Red Bull instead of water to make coffee this morning. I was half way to work before I realized I left my car at home.
 (LSW)    I used to be a bus driver but I had to quit. I was fed up with people talking behind my back.
          I used to be a nice guy until Ruth left me...now I'm Ruthless.
 (LW)     I used to be addicted to Thanksgiving leftovers. I had to quit cold turkey.
@@ -657,6 +659,7 @@ Said I was Dunkin' disorderly.
          I was sitting drinking coffee in my slippers this morning, when I thought to myself...I really need to wash some cups!
 (LSW)    I was so bored sitting at home that I memorized six pages of the dictionary. I learned next to nothing.
          I was so close to winning the most congested nose competition! But I blew it at the last minute.
+         I was so unpopular at school, my nickname was 'Battery'. I was never included in anything.
 (LSW)    I was terrible at spelling when I was at school. Brilliant at jography though!
 (LSW)    I was thrown out of the break room of my Walmart yesterday. They asked me what I was doing there. I told them I was on a break. They said you don't work here. I said I'd just finished using the self-checkout so clearly I do.
          I was trying to figure out why the ball kept getting bigger and bigger. Then it hit me.
@@ -724,6 +727,7 @@ Said I was Dunkin' disorderly.
          I'm not saying I'm old, I'm just saying that my dinner time and bed time are getting dangerously close to each other.
          I'm not wearing glasses anymore. I've seen enough.
          I'm on a plane and the lunch choices are: white meat chicken or German saugage. Unfortunately, I'm seated in the last row. I'm hoping for the breast, but preparing for the wurst.
+         I'm reading a book called 'The History of Glue'. I can't put it down.
 (LSW)    I'm reading a horror book in Braille. Something bad is going to happen. I can feel it.
          I'm really excited about the amateur autopsy club I've joined...Tuesday is open Mike night.
          I'm so glad I was able to convince my daughter not to date this guy named Kelvin. He's an absolute zero.
@@ -839,6 +843,7 @@ Said I was Dunkin' disorderly.
          It was so cold yesterday my computer froze. My own fault thought...I left too many windows open.
          It's a 5 minutes walk from my house to the pub. It's a 30 minute walk from the pub to my house. The difference is staggering.
          It's a five minute walk from my house to the bar, but a 45 minute walk from the bar to my house. The difference is staggering.
+         It's annoying how some people can't just admit their faults. I would...if I had any.
          It's inappropriate to make a 'dad joke' if you're not a dad. It's a faux pa.
          It's my wife's birthday next week and she's been leaving jewelry catalogs all over our house. So I got her a magazine rack.
          It's okay if you have no idea what "prefix" means. It's not the end of the word.
@@ -1010,8 +1015,7 @@ Said I was Dunkin' disorderly.
          My son wanted to know what it was like to be a parent. So I woke him at 2am to tell him my sock came off.
 ---      My son wanted to know what it's like to be married. I asked him to leave me alone and when he did I asked him why he was ignoring me.
 (LW)     My son, Luke, loves how I named our kids after Star Wars characters…My daughter, Chewbacca, not so much!
----
-(LSWCN   My son asked me "Where does poo come from?" I was a little uncomfortable but gave him an honest explanation. He looked a little perplexed, and stared at me in stunned silence for a few seconds and then asked, "And Tigger"
+(LSWCN)  My son asked me "Where does poo come from?" I was a little uncomfortable but gave him an honest explanation. He looked a little perplexed, and stared at me in stunned silence for a few seconds and then asked, "And Tigger"
          My son's fourth birthday was today, but when he came to see me I didn't recognize him at first. I'd never seen him be 4.
          My son's school just phoned and said, "Your son's been telling lies." I said, "Tell him he's very good. I don't have any kids."
 (LSW)    My teacher always said not to worry about correct spelling, because we have autocorrect. And for that I am infernally grapefruit.
@@ -1427,7 +1431,7 @@ Said I was Dunkin' disorderly.
 (LS)     What do you call a snowman who vacations in the tropics? A puddle.
 (LSW)    What do you call a snowman with a six pack? An abdominal snowman.
 (LS)     What do you call a teacher that won't fart in public? A private tutor.
----      What do you call a train loaded with gum? A chew chew train.
+(LSWCN)  What do you call a train loaded with gum? A chew chew train.
 (LSW)    What do you call a turkey on the day after Thanksgiving? Lucky.
 (LW)     What do you call a turkey that’s come back to haunt you? A poultrygeist.
 ---      What do you call a typo on a headstone? A grave mistake.
