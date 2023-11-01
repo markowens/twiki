@@ -252,6 +252,7 @@
 (LSW)    How do you wash your hands over the holiday? With Santatizer.
          How does Moses make his coffee? Hebrews it.
 (LSW)    How does a computer get drunk? It takes screen shots.
+         How does a farmer find new cows to buy? He looks through the cattlelog.
          How does a train hear another train coming? With its engineers.
          How does a train sneeze? A choo choo!
          How does an Englishman invite a dinosaur for lunch? Tea, Rex?
@@ -425,6 +426,7 @@
 (LS)     I have an idea for a chain of Elvis steak houses. It will be for people who love meat tender.
          I have an irrational fear of overly engineered buildings. I have a complex complex complex.
 (LS)     I have invented a game called: Silent Tennis. It's like regular tennis but without the racket.
+         I have one pair of running shoes. Unfortunately, I have 20 pairs of eating shoes!
          I have several puns about noses, but I just can't seem to pick one!
          I have two milestones at work: 1) lunch, 2) leaving.
 (W) ---  I haven't kept up my subscription to the Scrabble Club...now they've started sending me threatening letters...
@@ -486,6 +488,7 @@
          I lived in a houseboat and dated the girl next door. But eventually, we drifted apart.
 (LW)     I lost my wife’s audiobook….And now I’ll never hear the end of it!
          I lost three fingers on my right hand, so I asked my doctor if I would still be able to write with it. He said: "maybe, but I wouldn't count on it."
+         I love going outdorrs. It is so much easier than going outwindows.
          I love my job. Lately, colleagues have been writing names on the food in the office fridge. I'm currently eating a yogurt called Susan. How cute!
          I love the feeling of warm underwear straight from the dryer. That's why I'm banned from the laundrette.
          I love watching programs about lakes and rivers on the internet. Anything water related really.
@@ -623,6 +626,8 @@
 (S)      I was a sigh that said "Falling Rocks". So I tried and it doesn't 
          I was a table for free but decided not to take it. It was a round table, so I couldn't use it during the day. Round tables are for knights.
          I was abducted by aliens. They made me wash my hands, clean my room, and eat my vegetables. Turns out I was on the mothership.
+---      I was asked if I would try belly dancing. I just don't think I have the stomach for it.
+         I was at the airport and just saw this fella collapse on the luggage carousel. I thinks he's okay though as he's just coming around.
          I was at Walmart the other day and saw some Batman shampoo. I looked and couldn't believe they didn't have Conditioner Gordon.
          I was attacked by a flock of sheep today. Luckily, I was only grazed.
 ---      I was drinking a beer and the bartender yelled "Does anyone know CPR"? I replied, "I know the entire alphabet" Everyone laughed....well, except for this one guy...
@@ -989,6 +994,7 @@ Said I was Dunkin' disorderly.
          My girlfriend poked me in the eyes....so I stopped seeing her for a while.
          My girlfriend told me to stop making camera puns. I told her to stop focusing on the negatives and develop a sense of humor. She left me in a flash!
          My girlfriend wants me to choose between her and my career as a reporter. I have some breaking news for her.
+         My going out clothes have missed me so much. I put them on and they hugged me so tightly, I could hardly breathe!
          My grand-dad was responsible for 35 downed German planes in WW2. Still to this day holds the record as worst mechanic the Luftwaffe ever had.
 (LSW)    My grief counselor died. He was so good I don't even care.
          My half brother and I aren't allowed to play with chainsaws any more.
@@ -1015,7 +1021,7 @@ Said I was Dunkin' disorderly.
 ---      My next door neighbor has just bought an Audi, a Toyoto, and 2 BMW's. I think he's got that car owner virus.
          My next door neightbor and I are good friends, so we decided to share our water supply. We got a long well.
 (LS)     My old job involved crushing cans. I had to quit because it was soda-pressing!
----      My phone has this cool app that shows me what I would look like as an old person. It's called Camera.
+(LSWCN)  My phone has this cool app that shows me what I would look like as an old person. It's called Camera.
 (LSW)    My salad last night was a bit on the dry side. It was a situation that needed addressing!
          My son asked me what procrastinate means. I said: "I'll tell you later."
          My son asked me, "Dad, are we pyromaniacs?" I replied: "Yes, we arson."
@@ -1306,6 +1312,7 @@ Said I was Dunkin' disorderly.
 	       There's a new dating website for old people. It's called Carbon.
 (LSW)    There is no such thing as vampires...unless you Count Dracula.
 (LSW)    There were four poisons in ancient Rome. Poisons I, II, and III would kill you instantly. Poison IV would make you itchy!
+         There's a convent that only eats fresh lettuce salads. The nuns there consider themselves Romaine Catholics.
 (LSW)    There's a movie coming out about a mobile home. I just saw the trailer.
          There's a new flight company that caters to people who are going bald. It's called Receding Airlines.
 (W)      There's a rumor going around about butter...but I refuse to spread it.
@@ -1368,6 +1375,7 @@ Said I was Dunkin' disorderly.
 ---      We must all do our bit for the planet. I just unplugged a row of electric cars, that no one was using.
          We nearly froze to death one February night - because I bought cheap camping gear. It was the winter of our discount tent.
          We started a band and called it "Books". So no one can judge us by our covers.
+         We were so poor growing up, my mom sent me next door with a button to ask them to sew a shirt on it.
 	       Well I’m bummed. I asked Tom Hanks for his autograph and he gave it to me. But when I looked at it, all it said was “Thanks”!
          Well, I got fired from the keyboard factory. My boss sid I wasn't putting in enough Shifts. That's when I completely lost CTRL.
          Went to a Cannibal wedding yesterday. It was all going well...until they decided to toast the Bride and Groom.
@@ -1463,6 +1471,7 @@ Said I was Dunkin' disorderly.
 (W)      What do you call your mom's angry French sister? A Croissaunt.
 (LSW)    What do you do when you're being attacked by a group of clowns? Go for the juggler.
 (LSW)    What do you get from a pampered cow? Spoiled milk!
+         What do you get from nervous cows? Milk Shakes.
          What do you get if you cross a cocker spaniel, a poodle, and a rooster? A cocker poodle doo.
          What do you get if you cross a sheepdog with a rose? A collie flower.
 (LSW)    What do you get if you eat Christmas decorations? tinsillitis!
@@ -1572,6 +1581,7 @@ Said I was Dunkin' disorderly.
 (LW)     When does a joke become a dad joke? When it becomes apparent.
          When driving by the prison the other day, I saw a dwarf climbing down the prison wall - and I thought, isn't that a litle condescending!
          When filling out a job application, I saw they had a section for "previous life experience", so I wrote down that I was a Pharaoh in 2300 B.C.
+         When my friend was a kid, he enjoyed pounding on a bag of Ruffles before opening it...and now he claims that he invented the micro-chip.
          When my great-granddad went bald, he built a machine to weave himself a wig out of yarn. He then gave it to my granddad, who then gave it to my dad - and one day, it will be mine. It's our family hair loom...
 (LW)     When my wife caught me standing on the bathroom scales, sucking in my stomach, she laughed, “Ha! That’s not going to help!” I said, “sure, it does. It’s the only way I can see the numbers.”
          When people are sad, I let them color in my tattoos. Sometimes all they need is a shoulder to crayon.
