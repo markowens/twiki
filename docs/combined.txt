@@ -303,7 +303,7 @@
          I asked my grandmother what she wants for her birthday, and she said: "A nice green jumper". So I've bought her a frog.
          I asked my wife how to turn Alexa off. She said: "How about walking through the room naked?"
          I asked my wife if I am the only one she has ever been with. She said yes, all the others were nines and tens.
----      I asked my wife this morning, "why do we argue about everything?" She replied, "well, if I agreed with you, then we'd both be wrong."
+(LSWCN)  I asked my wife this morning, "why do we argue about everything?" She replied, "well, if I agreed with you, then we'd both be wrong."
 (LSW)    I asked my wife what she wanted for Christmas. She told me, “Nothing would make her happier than a diamond necklace.” So I bought her nothing.
 (LS)     I asked my wife why she married me. She said, "because you're so funny and make me laugh so much." I told her I thought it was because I was so charming and good looking. She replied, "See? You're hilarious!"
          I asked seven billionairies, "What's the secret to your success?" and they all said the same thing. "How did you get into my mansion?"
@@ -946,7 +946,7 @@ Said I was Dunkin' disorderly.
 (LSWC)   My boss wants me to sign up for a 401K. No way I'm running that far!
          My brother was engaged to be married five times. He never actually got to the alter. That's a lot of near Mrs.
          My car is making a horrible noise. Have you tried removing the Mariah Carey Christmas CD?
----      My car is making a terrible noise. Try taking out the Taylor Swift CD.
+(LSCN)   My car is making a terrible noise. Try taking out the Taylor Swift CD.
          My cat has the habit of using my valuable painting as a scratching post. I now have a clawed Monet.
          My cellphone accidentally took a 10 minutes video of my shoes yesterday. It was some pretty good footage.
 (LW)     My co-workers laugh at my jokes in in-person meetings, but never in online meetings. When I asked them why, they said that my jokes weren’t remotely funny!
@@ -1018,7 +1018,7 @@ Said I was Dunkin' disorderly.
          My nephew needs a job Do you have any suggestions? He should apply for the Search & Rescue Team. They're always looking for someone....
          My nerdy friend just got a PhD on the history of palindromes. Now we call him Dr. Awkward.
 (LS)     My new SUV has a button that says, 'Rear Wiper'. I'm afraid to push it.
----      My next door neighbor has just bought an Audi, a Toyoto, and 2 BMW's. I think he's got that car owner virus.
+(LSCN)   My next door neighbor has just bought an Audi, a Toyoto, and 2 BMW's. I think he's got that car owner virus.
          My next door neightbor and I are good friends, so we decided to share our water supply. We got a long well.
 (LS)     My old job involved crushing cans. I had to quit because it was soda-pressing!
 (LSWCN)  My phone has this cool app that shows me what I would look like as an old person. It's called Camera.
@@ -1482,7 +1482,7 @@ Said I was Dunkin' disorderly.
 	       What do you say to a one-legged hitchhiker? Hop in.
          What do you think of my singing? I think you should sing tenor. Really? Tenor eleven miles away.
 (LW)     What does "idk" stand for? I've asked lots of people but nobody seems to know.
-         What does Charles Dickens keep in his spice rack? The best of thymes, the worst of thymes.
+---      What does Charles Dickens keep in his spice rack? The best of thymes, the worst of thymes.
          What does a clock do when it's still hungry? It goes back for seconds.
          What does a skeleton order at a restaurant? Spare ribs.
 ---      What does a tapeworm have in common with the Eiffel tower? They're both Paris sites.
@@ -1492,6 +1492,7 @@ Said I was Dunkin' disorderly.
          What happened to the dog who let her puppies out onto the street? She got fined for littering.
 (LW)     What happens if someone slaps you at a high frequency? It Hertz!
          What happens if you get scared half to death twice?
+         What happens when a cow jumps over a picket fence? Udder destruction!
          What happens when you cross an angry sheep, and an angry cow? You get two animals in a baaaad mooood.
 (LS)     What happens when you eat aluminum foil? You sheet metal.
          What happens when you go to the bathroom in France? European.
@@ -1508,7 +1509,6 @@ Said I was Dunkin' disorderly.
          What is the difference between a coyote and a flea? One howls on the prairie and the other prowls on the hairy.
          What is the opposite of a croissant. A Happy Uncle.
          What is the worst insult you can say to a ghost? "Get a life!"
-(LW)     What kind of car does a Jedi drive? A Toy-Yoda.
 (LW)     What kind of car does a Jedi drive? A Toy-Yoda.
 (W)      What kind of dog doesn't bark? A hush puppy!
          What kind of drug should dinosaurs never take? A steroid.
