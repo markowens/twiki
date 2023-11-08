@@ -1603,7 +1603,7 @@ Said I was Dunkin' disorderly.
 (LSW)    Where do little trees go to become Christmas trees? Elementree school!
          Where do you find a turkey with no legs? Exactly where you left it.
 ---      Where do you go to learn how to make ice cream? Sundae School.
----      Where do you take your cat if it loses it tail? You take it to Walmart, they are the world's largest retailer.
+(LSWCN)  Where do you take your cat if it loses it tail? You take it to Walmart, they are the world's largest retailer.
 (LW)     Which Olympic sport generates the most conversation? Discus
 (LW)     Which U.S. state is famous for its extra-small soft drinks? Minnesota!
          Which celebrity is always ready for cereal? Reese. With her spoon.
