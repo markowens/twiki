@@ -1560,7 +1560,7 @@ Said I was Dunkin' disorderly.
 	       What do you say to a one-legged hitchhiker? Hop in.
          What do you think of my singing? I think you should sing tenor. Really? Tenor eleven miles away.
 (LW)     What does "idk" stand for? I've asked lots of people but nobody seems to know.
----      What does Charles Dickens keep in his spice rack? The best of thymes, the worst of thymes.
+(LSWCN)  What does Charles Dickens keep in his spice rack? The best of thymes, the worst of thymes.
          What does a clock do when it's still hungry? It goes back for seconds.
          What does a skeleton order at a restaurant? Spare ribs.
 ---      What does a tapeworm have in common with the Eiffel tower? They're both Paris sites.
