@@ -1061,7 +1061,7 @@ Said I was Dunkin' disorderly.
          My inflatable house got a puncture yesterday. Now I'm living in a flat.
          My kid asked me the other day if I was named after my father. I said of course. He was named years before me!
          My kids said they wanted to go to an "escape room" so I locked them in their bedrooms with a rotary phone, analog tv, a remote control and wrote instructions on how to escape in cursive...it has been 3 days 18hrs and 10 seconds since I have seen them.
-         My kids say they want a cat for Christmas. Normally I do a turkey buty hey, if ti'll make'em happy...
+         My kids say they want a cat for Christmas. Normally I do a turkey but hey, if it'll make'em happy...
 (LSW)    My kids were walking around clucking like chickens while I was on a conference call. I had to put myself on mute and ask them to stop...I will not tolerate fowl language in this house.
          My last girlfriend said I was unnecessarily mysterious. Or did she?
          My life coach just told me I didn't make the team!
@@ -1484,7 +1484,7 @@ Said I was Dunkin' disorderly.
          What did the nuclear physicist have for lunch? Fission chips.
 (LS)     What did the third wise man say after his friends had already presented gold and frankincense? "But wait, there's myrrh!"
 (LW)     What did the tomato say to his friends when he was running late? Don't worry, I'll ketchup.
-(LSW)    What did the turkey say to the turkey hunter on Thanksgiving Day? Quack, quack!
+(LSWCN   What did the turkey say to the turkey hunter on Thanksgiving Day? Quack, quack!
 ---      What did they yell at Edgar Allen Poe when he nearly walked into a tree. Poetry?
 (LW)     What do Santa's elves listen to ask they work? Wrap music!
          What do pigs learn in the army? Ham to ham combat.
@@ -1552,6 +1552,7 @@ Said I was Dunkin' disorderly.
          What do you get from nervous cows? Milk Shakes.
          What do you get if you cross a cocker spaniel, a poodle, and a rooster? A cocker poodle doo.
          What do you get if you cross a sheepdog with a rose? A collie flower.
+         What do you get if you divide the circumference of a pumpkin by its diameter? Pumpkin pi.
 (LSW)    What do you get if you eat Christmas decorations? tinsillitis!
 (LW)     What do you get if you put a duck in a cement mixer? Quacks in the pavement!
          What do you get when the sunrise bends over? The crack of dawn.
@@ -1592,6 +1593,7 @@ Said I was Dunkin' disorderly.
          What kind of drug should dinosaurs never take? A steroid.
 (LSW)    What kind of egg did the evil chicken lay? A deviled egg.
          What kind of lights did Noah carry onto the Ark? Flood lights.
+         What kind of music did the Pilgrims like. Plymouth Rock.
          What kind of music do baloons like? Pop music.
          What lies on the ground, 100 feet in the air? A dead centipede
 (L)      What music do balloons fear? Pop music.
@@ -1690,6 +1692,7 @@ Said I was Dunkin' disorderly.
          Which celebrity is always ready for cereal? Reese. With her spoon.
 (LS)     Which computer has the best voice? A Dell.
 ---      Which is faster, hot or cold? Hot, because you can catch a cold.
+(LW)     Which side of the turkey has the most feathers? The outside.
          Which state has the most streets? Rhode Island.
          Which weighs more, a gallon of water, or a gallon of butane? (They would both weigh one gallon...wrong). Water...butane is a....lighter fluid!
          While on vacation we went to the "Helium Museum"...I can't speak highly enough of it.
@@ -1729,6 +1732,7 @@ Said I was Dunkin' disorderly.
          Why did the meatballs tell the spaghetti to go to sleep? It was pasta bedtime.
 (LW)     Why did the picture go to jail? It was framed!
 (S)      Why did the triangle feel sorry for the circle? It was pointless.
+         Why did the turkey cross the road twice? to prove he wasn't chicken.
 (LW)     Why did the vegetable cargo ship sink in the ocean? It had too many leeks.
          Why didn't the lifeguard rescue the hippy? Because he was too far out man!
 (CLNSW)  Why do actors say "Break a leg?" They all want to be in a cast.
