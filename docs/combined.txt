@@ -1018,7 +1018,7 @@ Said I was Dunkin' disorderly.
          My email password has been hacked again. That's the 3rd time I've had to rename the cat.
 (LSW)    My ex-girlfriend just told me she wants us to get back together again. Man, I sure am Lucky! I mean, first I win the lottery and now this!
 (LSW)    My ex-girlfriend still misses me, but her aim is getting better.
-         My family told me to stop telling Thanksgiving jokes, but I told them I couldn't quit "cold turkey".
+(LSWC)   My family told me to stop telling Thanksgiving jokes, but I told them I couldn't quit "cold turkey".
          My father made the best bread. I asked him for his secret, but he wouldn't tell me. Said it was on a knead-to-dough basis only.
          My favorite childhood memory is building sand castles with my grandfather. Until my mother took the urn from me.
 	       My favorite piece of furniture is my reclining chair...We go back a long way..
@@ -1602,7 +1602,7 @@ Said I was Dunkin' disorderly.
          What should you do if you are addicted to sea weed? Sea kelp.
          What sits at the bottom of the sea and twitches? A nervous wreck.
 (LSW)    What smells better than it tastes? A nose.
-         What smells the best at a Thanksgiving dinner? Your nose.
+(LSC)    What smells the best at a Thanksgiving dinner? Your nose.
          What sound does a cow make when it runs out of milk?  None. There is udder silence.
          What starts with a W and ends with a T. It really does, I swear.
 (LW)     What superpower do yo uget when you become a parent? Supervision
