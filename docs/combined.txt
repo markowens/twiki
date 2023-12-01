@@ -109,6 +109,7 @@
 (L)      Ate my last piece of cheese yesterday. Today it is raining. Ain't no sunshine, when cheese gone.
 (LSW)    Baby changing stations are a hoax. The parents always come out with the same kid.
          Bananas are one of the most popular fruits because they have a peel
+(LSWCN)  Banks need to get better at restocking their ATM's at Christmas...This is the 5th one I've been to that has "Insufficient Funds"
          Bathroom hand dryers are amazing if you want to kill a few minutes before wiping your hands on your pants.
 (W)      Be a minimalist...it's the least you can do.
          Bears probably don't even realize that we have a right to their arms.
@@ -157,7 +158,7 @@
 (LW)     Did you hear about the boy who went to mime school? He was never heard from again.
          Did you hear about the chameleon that couldn't change color? It had a-reptile dysfunction.
          Did you hear about the circus fire? It was in tents.
-         Did you hear about the constipated accountant? The couldn't budget.
+         Did you hear about the constipated accountant? He couldn't budget.
 (LW)     Did you hear about the criminal who kept her spices in the freezer? She served hard thyme!
 (LSW)    Did you hear about the cross-eyed teacher that lost her job...she couldn't control her pupils.
          Did you hear about the dwarf psychic who escaped from prison. The headline read "Small Medium at Large".
