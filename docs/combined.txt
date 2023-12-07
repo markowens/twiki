@@ -1493,8 +1493,8 @@ Said I was Dunkin' disorderly.
 (LW)     What did the tomato say to his friends when he was running late? Don't worry, I'll ketchup.
 (LSWCN   What did the turkey say to the turkey hunter on Thanksgiving Day? Quack, quack!
 ---      What did they yell at Edgar Allen Poe when he nearly walked into a tree. Poetry?
-(LW)     What do Santa's elves listen to ask they work? Wrap music!
-         What do pigs learn in the army? Ham to ham combat.
+(LSWCN)  What do Santa's elves listen to ask they work? Wrap music!
+(LW)     What do pigs learn in the army? Ham to ham combat.
 (LW)     What do scholars eat when they're hungry? Academia nuts.
          What do sprinters eat before a race? Nothing, they fast!
 (LW)     What do the people buying bread have in common with the people selling it? They both want each other's dough!
