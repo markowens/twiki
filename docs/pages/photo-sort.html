@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Sortable List</title>
+  <title>Photo Video Tutorial</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet"/>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -18,6 +18,8 @@
       --text:      #f0ede6;
       --muted:     #6b6b6b;
       --drag-over: #1e2a0d;
+      --done-bg:   #131313;
+      --done-text: #444;
     }
 
     body {
@@ -44,9 +46,7 @@
       color: var(--text);
     }
 
-    header h1 span {
-      color: var(--accent);
-    }
+    header h1 span { color: var(--accent); }
 
     header p {
       margin-top: 12px;
@@ -59,24 +59,25 @@
     /* ── List container ── */
     #sortable-list {
       width: 100%;
-      max-width: 560px;
+      max-width: 620px;
       display: flex;
       flex-direction: column;
       gap: 8px;
+      list-style: none;
     }
 
     /* ── Each item ── */
     .list-item {
       display: flex;
       align-items: center;
-      gap: 16px;
-      padding: 18px 20px;
+      gap: 14px;
+      padding: 16px 18px;
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: 6px;
       cursor: grab;
       user-select: none;
-      transition: background 0.15s, border-color 0.15s, transform 0.15s, box-shadow 0.15s;
+      transition: background 0.15s, border-color 0.15s, opacity 0.2s;
       position: relative;
     }
 
@@ -87,18 +88,71 @@
       background: #1c1c1c;
     }
 
+    /* ── Completed state ── */
+    .list-item.done {
+      background: var(--done-bg);
+      border-color: #222;
+    }
+
+    .list-item.done .item-link {
+      color: var(--done-text);
+      text-decoration: line-through;
+      pointer-events: none;
+    }
+
+    .list-item.done .item-index {
+      background: #1e1e1e;
+      color: #333;
+    }
+
+    /* ── Custom checkbox ── */
+    .item-check {
+      flex-shrink: 0;
+      appearance: none;
+      -webkit-appearance: none;
+      width: 20px;
+      height: 20px;
+      border: 2px solid var(--border);
+      border-radius: 4px;
+      background: transparent;
+      cursor: pointer;
+      position: relative;
+      transition: border-color 0.15s, background 0.15s;
+    }
+
+    .item-check:hover { border-color: var(--accent-dim); }
+
+    .item-check:checked {
+      background: var(--accent);
+      border-color: var(--accent);
+    }
+
+    .item-check:checked::after {
+      content: '';
+      position: absolute;
+      left: 4px;
+      top: 1px;
+      width: 6px;
+      height: 10px;
+      border: 2px solid #000;
+      border-top: none;
+      border-left: none;
+      transform: rotate(45deg);
+    }
+
     /* ── Index badge ── */
     .item-index {
-      min-width: 28px;
-      height: 28px;
+      min-width: 26px;
+      height: 26px;
       display: flex;
       align-items: center;
       justify-content: center;
       background: var(--border);
       border-radius: 4px;
-      font-size: 0.7rem;
+      font-size: 0.68rem;
       color: var(--muted);
       font-weight: 500;
+      flex-shrink: 0;
       transition: background 0.15s, color 0.15s;
     }
 
@@ -108,33 +162,40 @@
       flex-direction: column;
       gap: 4px;
       padding: 4px 2px;
-      opacity: 0.3;
+      opacity: 0.25;
       transition: opacity 0.15s;
       flex-shrink: 0;
     }
     .handle span {
       display: block;
-      width: 18px;
+      width: 16px;
       height: 2px;
       background: var(--text);
       border-radius: 2px;
     }
-    .list-item:hover .handle { opacity: 0.8; }
+    .list-item:hover .handle { opacity: 0.7; }
 
-    /* ── Item text ── */
-    .item-text {
+    /* ── Link ── */
+    .item-link {
       flex: 1;
-      font-size: 0.92rem;
+      font-size: 0.9rem;
       letter-spacing: 0.01em;
+      color: var(--accent);
+      text-decoration: none;
+      transition: color 0.15s;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
 
-    /* ── Dragging state ── */
+    .item-link:hover { color: #d4ff6a; text-decoration: underline; }
+
+    /* ── Dragging / drag-over states ── */
     .list-item.dragging {
-      opacity: 0.3;
+      opacity: 0.25;
       border-color: var(--accent);
     }
 
-    /* ── Drop-zone highlight ── */
     .list-item.drag-over {
       background: var(--drag-over);
       border-color: var(--accent);
@@ -145,7 +206,7 @@
       color: #000;
     }
 
-    /* ── Ghost (floating card while dragging) ── */
+    /* ── Ghost ── */
     #drag-ghost {
       position: fixed;
       pointer-events: none;
@@ -154,62 +215,119 @@
       background: var(--surface);
       border: 1px solid var(--accent);
       border-radius: 6px;
-      padding: 18px 20px;
+      padding: 14px 18px;
       font-family: 'DM Mono', monospace;
-      font-size: 0.92rem;
-      color: var(--text);
+      font-size: 0.9rem;
+      color: var(--accent);
       box-shadow: 0 12px 40px rgba(200,245,90,0.15), 0 4px 12px rgba(0,0,0,0.6);
-      max-width: 560px;
       white-space: nowrap;
       transform: rotate(-1.5deg) scale(1.03);
       transition: opacity 0.08s;
     }
     #drag-ghost.visible { opacity: 1; }
 
-    /* ── Add item controls ── */
-    .add-row {
+    /* ── Add item form ── */
+    .add-section {
       width: 100%;
-      max-width: 560px;
+      max-width: 620px;
       margin-top: 24px;
-      display: flex;
-      gap: 10px;
-    }
-
-    .add-row input {
-      flex: 1;
       background: var(--surface);
       border: 1px solid var(--border);
-      border-radius: 6px;
+      border-radius: 8px;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .add-section label {
+      font-size: 0.7rem;
+      color: var(--muted);
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      display: block;
+      margin-bottom: 4px;
+    }
+
+    .add-section input[type="text"],
+    .add-section input[type="url"] {
+      width: 100%;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 5px;
       color: var(--text);
       font-family: 'DM Mono', monospace;
-      font-size: 0.88rem;
-      padding: 14px 16px;
+      font-size: 0.87rem;
+      padding: 11px 14px;
       outline: none;
       transition: border-color 0.15s;
     }
-    .add-row input::placeholder { color: var(--muted); }
-    .add-row input:focus { border-color: var(--accent-dim); }
+    .add-section input::placeholder { color: #3a3a3a; }
+    .add-section input:focus { border-color: var(--accent-dim); }
 
-    .add-row button {
+    .add-row-bottom {
+      display: flex;
+      gap: 10px;
+      align-items: flex-end;
+    }
+
+    .add-row-bottom > div { flex: 1; }
+
+    .add-section button {
       background: var(--accent);
       color: #000;
       border: none;
       border-radius: 6px;
       font-family: 'DM Mono', monospace;
-      font-size: 0.85rem;
+      font-size: 0.83rem;
       font-weight: 500;
-      padding: 14px 22px;
+      padding: 12px 20px;
       cursor: pointer;
       transition: background 0.15s, transform 0.1s;
       letter-spacing: 0.04em;
+      white-space: nowrap;
+      align-self: flex-end;
+      height: 42px;
     }
-    .add-row button:hover { background: #d4ff6a; }
-    .add-row button:active { transform: scale(0.97); }
+    .add-section button:hover { background: #d4ff6a; }
+    .add-section button:active { transform: scale(0.97); }
+
+    /* ── Progress bar ── */
+    .progress-row {
+      width: 100%;
+      max-width: 620px;
+      margin-top: 20px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .progress-bar-track {
+      flex: 1;
+      height: 4px;
+      background: var(--border);
+      border-radius: 2px;
+      overflow: hidden;
+    }
+
+    .progress-bar-fill {
+      height: 100%;
+      background: var(--accent);
+      border-radius: 2px;
+      transition: width 0.35s ease;
+    }
+
+    .progress-label {
+      font-size: 0.7rem;
+      color: var(--muted);
+      letter-spacing: 0.08em;
+      white-space: nowrap;
+    }
 
     /* ── Hint ── */
     .hint {
-      margin-top: 32px;
-      font-size: 0.7rem;
+      margin-top: 20px;
+      font-size: 0.68rem;
       color: var(--muted);
       letter-spacing: 0.1em;
       text-transform: uppercase;
@@ -230,96 +348,144 @@
       z-index: 0;
     }
 
-    header, #sortable-list, .add-row, .hint { position: relative; z-index: 1; }
+    header, #sortable-list, .add-section, .progress-row, .hint {
+      position: relative;
+      z-index: 1;
+    }
   </style>
 </head>
 <body>
 
   <header>
-    <h1>Sort<span>able</span></h1>
-    <p>Drag items to reorder &nbsp;·&nbsp; No server required</p>
+    <h1>Video Courses</span></h1>
+    <p>Drag to reorder &nbsp;·&nbsp; Check off when done &nbsp;</p>
   </header>
 
   <ul id="sortable-list" aria-label="Sortable list"></ul>
 
-  <div class="add-row">
-    <input type="text" id="new-item-input" placeholder="Add a new item…" maxlength="80" />
-    <button id="add-btn">+ Add</button>
+  <div class="progress-row">
+    <div class="progress-bar-track">
+      <div class="progress-bar-fill" id="progress-fill" style="width:0%"></div>
+    </div>
+    <span class="progress-label" id="progress-label">0 / 0 done</span>
   </div>
 
-  <p class="hint">↕ drag &amp; drop to reorder &nbsp;·&nbsp; order is saved in your browser</p>
+  <div class="add-section">
+    <div>
+      <label for="input-label">Link label</label>
+      <input type="text" id="input-label" placeholder="My page title" maxlength="80" />
+    </div>
+    <div class="add-row-bottom">
+      <div>
+        <label for="input-url">URL</label>
+        <input type="url" id="input-url" placeholder="https://yoursite.com/page" />
+      </div>
+      <button id="add-btn">+ Add</button>
+    </div>
+  </div>
 
-  <!-- Ghost element that follows the cursor -->
+  <p class="hint">↕ drag &amp; drop to reorder &nbsp;·&nbsp; ☑ check to mark complete &nbsp;</p>
+
   <div id="drag-ghost"></div>
 
 <script>
-  // ── Initial data (edit freely) ──────────────────────────────────────────────
+  // ── Default items — each has { label, url, done } ──────────────────────────
+  // Edit these to match your actual pages before uploading to GitHub Pages
   const DEFAULT_ITEMS = [
-    '<a href="https://google.com">Google Home>',
-    "Write project documentation",
-    "Set up GitHub Actions CI",
-    "Review pull requests",
-    "Update dependencies",
-    "Write unit tests",
-    "Deploy to GitHub Pages",
+    { label: "Introduction to Rephotography",   url: "https://www.creativehighway.com/courses/introduction-to-rephotography",   done: false },
+    { label: "Educating Steph",  url: "https://www.creativehighway.com/courses/educating-steph/",       done: false },
+    { label: "Knocking Your First Portrait Out of the Park",     url: "https://www.creativehighway.com/courses/knocking-your-first-portrait-out-of-the-park/",         done: false },
+    { label: "Review pull requests",         url: "pages/reviews.html",    done: false },
+    { label: "Update dependencies",          url: "pages/deps.html",       done: false },
+    { label: "Write unit tests",             url: "pages/tests.html",      done: false },
+    { label: "Deploy to GitHub Pages",       url: "pages/deploy.html",     done: false },
   ];
 
   // ── State ───────────────────────────────────────────────────────────────────
-  const STORAGE_KEY = 'sortable_list_items';
+  const STORAGE_KEY = 'sortable_list_v2';
   let items = loadItems();
   let dragSrcIndex = null;
 
-  // ── DOM refs ─────────────────────────────────────────────────────────────────
-  const list   = document.getElementById('sortable-list');
-  const input  = document.getElementById('new-item-input');
-  const addBtn = document.getElementById('add-btn');
-  const ghost  = document.getElementById('drag-ghost');
+  // ── DOM ───────────────────────────────────────────────────────────────────────
+  const list          = document.getElementById('sortable-list');
+  const inputLabel    = document.getElementById('input-label');
+  const inputUrl      = document.getElementById('input-url');
+  const addBtn        = document.getElementById('add-btn');
+  const ghost         = document.getElementById('drag-ghost');
+  const progressFill  = document.getElementById('progress-fill');
+  const progressLabel = document.getElementById('progress-label');
 
-  // ── Persistence ──────────────────────────────────────────────────────────────
+  // ── Persistence ───────────────────────────────────────────────────────────────
   function loadItems() {
     try {
-      const stored = localStorage.getItem(STORAGE_KEY);
-      if (stored) return JSON.parse(stored);
+      const s = localStorage.getItem(STORAGE_KEY);
+      if (s) return JSON.parse(s);
     } catch (_) {}
-    return [...DEFAULT_ITEMS];
+    return DEFAULT_ITEMS.map(i => ({ ...i }));
   }
 
   function saveItems() {
     try { localStorage.setItem(STORAGE_KEY, JSON.stringify(items)); } catch (_) {}
   }
 
-  // ── Render ───────────────────────────────────────────────────────────────────
+  // ── Render ────────────────────────────────────────────────────────────────────
   function render() {
     list.innerHTML = '';
-    items.forEach((text, i) => {
+    items.forEach((item, i) => {
       const li = document.createElement('li');
-      li.className = 'list-item';
+      li.className = 'list-item' + (item.done ? ' done' : '');
       li.draggable = true;
       li.dataset.index = i;
+
       li.innerHTML = `
+        <input type="checkbox" class="item-check" aria-label="Mark complete"${item.done ? ' checked' : ''}>
         <span class="item-index">${i + 1}</span>
         <span class="handle"><span></span><span></span><span></span></span>
-        <span class="item-text">${escHtml(text)}</span>
+        <a class="item-link" href="${escAttr(item.url)}" title="${escAttr(item.label)}">${escHtml(item.label)}</a>
       `;
+
+      // Checkbox toggle — update state and re-render
+      li.querySelector('.item-check').addEventListener('change', e => {
+        items[i].done = e.target.checked;
+        saveItems();
+        render();
+      });
+
+      // Prevent link clicks from initiating a drag
+      li.querySelector('.item-link').addEventListener('mousedown', e => e.stopPropagation());
+
       attachDragEvents(li, i);
       list.appendChild(li);
     });
+
+    updateProgress();
   }
 
   function escHtml(s) {
-    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    return String(s)
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+      .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+  function escAttr(s) { return escHtml(s); }
+
+  // ── Progress bar ──────────────────────────────────────────────────────────────
+  function updateProgress() {
+    const total = items.length;
+    const done  = items.filter(i => i.done).length;
+    const pct   = total ? Math.round((done / total) * 100) : 0;
+    progressFill.style.width  = pct + '%';
+    progressLabel.textContent = `${done} / ${total} done`;
   }
 
-  // ── Drag events ──────────────────────────────────────────────────────────────
+  // ── Drag events ───────────────────────────────────────────────────────────────
   function attachDragEvents(li, i) {
     li.addEventListener('dragstart', e => {
       dragSrcIndex = i;
       li.classList.add('dragging');
-      // Custom ghost image
-      ghost.textContent = items[i];
+      ghost.textContent = items[i].label;
       ghost.classList.add('visible');
       e.dataTransfer.effectAllowed = 'move';
-      e.dataTransfer.setDragImage(new Image(), 0, 0); // hide default ghost
+      e.dataTransfer.setDragImage(new Image(), 0, 0);
     });
 
     li.addEventListener('dragend', () => {
@@ -339,14 +505,11 @@
       e.dataTransfer.dropEffect = 'move';
     });
 
-    li.addEventListener('dragleave', () => {
-      li.classList.remove('drag-over');
-    });
+    li.addEventListener('dragleave', () => li.classList.remove('drag-over'));
 
     li.addEventListener('drop', e => {
       e.preventDefault();
       if (dragSrcIndex === null || dragSrcIndex === i) return;
-      // Reorder
       const moved = items.splice(dragSrcIndex, 1)[0];
       items.splice(i, 0, moved);
       dragSrcIndex = null;
@@ -359,7 +522,7 @@
     list.querySelectorAll('.drag-over').forEach(el => el.classList.remove('drag-over'));
   }
 
-  // ── Ghost follows cursor ──────────────────────────────────────────────────────
+  // Ghost follows cursor
   document.addEventListener('dragover', e => {
     ghost.style.left = (e.clientX + 16) + 'px';
     ghost.style.top  = (e.clientY - 14) + 'px';
@@ -367,19 +530,23 @@
 
   // ── Add item ──────────────────────────────────────────────────────────────────
   function addItem() {
-    const val = input.value.trim();
-    if (!val) return;
-    items.push(val);
+    const label = inputLabel.value.trim();
+    const url   = inputUrl.value.trim();
+    if (!label) { inputLabel.focus(); return; }
+    if (!url)   { inputUrl.focus();   return; }
+    items.push({ label, url, done: false });
     saveItems();
     render();
-    input.value = '';
-    input.focus();
-    // Scroll to bottom
+    inputLabel.value = '';
+    inputUrl.value   = '';
+    inputLabel.focus();
     list.lastElementChild?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
   }
 
   addBtn.addEventListener('click', addItem);
-  input.addEventListener('keydown', e => { if (e.key === 'Enter') addItem(); });
+  [inputLabel, inputUrl].forEach(el =>
+    el.addEventListener('keydown', e => { if (e.key === 'Enter') addItem(); })
+  );
 
   // ── Init ──────────────────────────────────────────────────────────────────────
   render();
